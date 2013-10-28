@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>/* CSS */</style>
+<body>
+<script src="d3/d3.v3.min.js"></script>
+<h1 id='three_little_circles'>Three Little Circles</h1>
+<style type='text/css'>
+
+.chart {
+  background: #fff;
+  border: solid 1px #ddd;
+  box-shadow: 0 0 4px rgba(0,0,0,.2);
+  font: 10px sans-serif;
+  height: 180px;
+  position: relative;
+  width: 720px;
+}
+
+.chart svg {
+  border-left: solid 2px #ddd;
+  left: 360px;
+  position: absolute;
+  top: 0;
+}
+
+.chart pre {
+  font: 12px monospace;
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.chart circle.little {
+  fill: #aaa;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.chart button {
+  left: 275px;
+  position: absolute;
+  top: 145px;
+  width: 60px;
+}
+
+.chart .data rect {
+  fill: #eee;
+  stroke: #ccc;
+}
+
+</style><script type='text/javascript'>
+var data = [32, 57, 112],
+    dataEnter = data.concat(293),
+    dataExit = data.slice(0, 2),
+    w = 360,
+    h = 180,
+    x = d3.scale.ordinal().domain([57, 32, 112]).rangePoints([0, w], 1),
+    y = d3.scale.ordinal().domain(data).rangePoints([0, h], 2);
+</script>
+<div class='chart' id='chart-6b'>
+<button>Run</button>
+</div><script type='text/javascript'>
+(function() {
+  var svg = d3.select("#chart-6b").append("svg")
+      .attr("width", w)
+      .attr("height", h);
+
+  var g = svg.selectAll("g")
+      .data(data)
+    .enter().append("g")
+      .attr("transform", function(d) { return "translate(" + x(d) + "," + y(d) + ")"; });
+
+  g.append("circle")
+      .attr("class", "little")
+      .attr("r", 12);
+
+  g.append("text")
+      .attr("dy", ".35em")
+      .attr("text-anchor", "middle")
+      .text(function(d, i) { return i; });
+
+  d3.select("#chart-6b button").on("click", function() {
+    g
+        .attr("transform", function(d) { return "translate(" + x(d) + "," + y(d) + ")"; })
+      .transition()
+        .duration(750)
+        .attr("transform", function(d, i) { return "translate(" + (i * 100 + 30) + "," + y(d) + ")"; });
+  });
+})();
+</script>

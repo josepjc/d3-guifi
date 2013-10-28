@@ -1,0 +1,11 @@
+link_id	node1_id	node2_id	kms		node1_name			node2_name
+
+16882 	5738 		20958 		15.069 	"HW-AvCarrilet2" 	"CstlldflsDamaris"
+17235 	14717 		15274 		20.096 	"CBLLCreuAregall" 	"HW-Badalona"
+46480 	35844 		43631 		12.665 	"CstlldflsMNG32" 	"HW-ErmitaBellvitge"
+48652	42427 		43631 		2.476 	"CorSIfons" 		"HW-ErmitaBellvitge"
+53467	52465 		49809 		43.371 	"TuroCanTiril" 		"BCNcastillejos352"
+55225 	38970 		48812 		12.26 	"BCNhondures33" 	"Mas9LluisMillet104"
+57968 	18213 		8747 		23.078 	"BCNxsf-coopCarmel"	"LlicaMuntCanXicota"
+61258 	22859 		15274 		20.059 	"CBLLGregal8" 		"HW-Badalona"
+62915 	38970 		8969 		24.045 	"BCNhondures33" 	"CdmMPonsDiposits" 

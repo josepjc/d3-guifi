@@ -1,0 +1,3822 @@
+{
+    "nodes": [
+        {
+            "type": "user", 
+            "name": "rguerrero", 
+            "weight": 3, 
+            "id": "65"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "weight": 0, 
+            "id": "770"
+        }, 
+        {
+            "type": "user", 
+            "name": "vanesa-alarcon", 
+            "weight": 3, 
+            "id": "72"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "weight": 0, 
+            "id": "769"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "weight": 0, 
+            "id": "768"
+        }, 
+        {
+            "type": "user", 
+            "name": "admin", 
+            "weight": 98, 
+            "id": "1"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "weight": 0, 
+            "id": "766"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "weight": 0, 
+            "id": "765"
+        }, 
+        {
+            "type": "user", 
+            "name": "al", 
+            "weight": 12, 
+            "id": "18"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "weight": 0, 
+            "id": "764"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "weight": 0, 
+            "id": "742"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "736"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "735"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "734"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "733"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "732"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "731"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "730"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: the  cakes garden", 
+            "weight": 0, 
+            "id": "729"
+        }, 
+        {
+            "type": "user", 
+            "name": "eduard", 
+            "weight": 2, 
+            "id": "53"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "728"
+        }, 
+        {
+            "type": "user", 
+            "name": "elisenda10", 
+            "weight": 1, 
+            "id": "57"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "727"
+        }, 
+        {
+            "type": "user", 
+            "name": "concha", 
+            "weight": 14, 
+            "id": "26"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "726"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "weight": 0, 
+            "id": "722"
+        }, 
+        {
+            "type": "user", 
+            "name": "tonibardia", 
+            "weight": 3, 
+            "id": "82"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "721"
+        }, 
+        {
+            "type": "user", 
+            "name": "toneta", 
+            "weight": 9, 
+            "id": "85"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "720"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "719"
+        }, 
+        {
+            "type": "user", 
+            "name": "evaluatel", 
+            "weight": 6, 
+            "id": "104"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "weight": 0, 
+            "id": "718"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "weight": 2, 
+            "id": "717"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "716"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "715"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "713"
+        }, 
+        {
+            "type": "user", 
+            "name": "sebastiano", 
+            "weight": 4, 
+            "id": "36"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Listado web para obrir datos", 
+            "weight": 0, 
+            "id": "712"
+        }, 
+        {
+            "type": "user", 
+            "name": "gilbebo", 
+            "weight": 2, 
+            "id": "102"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "weight": 0, 
+            "id": "711"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "710"
+        }, 
+        {
+            "type": "user", 
+            "name": "jordigraells", 
+            "weight": 2, 
+            "id": "27"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "709"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "708"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "weight": 0, 
+            "id": "705"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "704"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "weight": 0, 
+            "id": "703"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Banc d&#039;imatges i v\u00eddeos lliure", 
+            "weight": 0, 
+            "id": "702"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "weight": 0, 
+            "id": "699"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "688"
+        }, 
+        {
+            "type": "user", 
+            "name": "thecakesgarden", 
+            "weight": 1, 
+            "id": "105"
+        }, 
+        {
+            "type": "topic", 
+            "name": "the  cakes garden", 
+            "weight": 8, 
+            "id": "687"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "686"
+        }, 
+        {
+            "type": "user", 
+            "name": "comcom", 
+            "weight": 3, 
+            "id": "103"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Els diputats/des treballen per nosaltres", 
+            "weight": 0, 
+            "id": "685"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "684"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "683"
+        }, 
+        {
+            "type": "user", 
+            "name": "tweekat", 
+            "weight": 5, 
+            "id": "88"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "682"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "681"
+        }, 
+        {
+            "type": "user", 
+            "name": "monica", 
+            "weight": 3, 
+            "id": "7"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "679"
+        }, 
+        {
+            "type": "topic", 
+            "name": "El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "weight": 2, 
+            "id": "678"
+        }, 
+        {
+            "type": "user", 
+            "name": "lluisridao", 
+            "weight": 3, 
+            "id": "16"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Organigrama Ajuntament", 
+            "weight": 0, 
+            "id": "677"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "676"
+        }, 
+        {
+            "type": "user", 
+            "name": "hermesite", 
+            "weight": 1, 
+            "id": "50"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Real-time BCN", 
+            "weight": 0, 
+            "id": "675"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "weight": 0, 
+            "id": "674"
+        }, 
+        {
+            "type": "user", 
+            "name": "sejoska", 
+            "weight": 1, 
+            "id": "101"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "weight": 0, 
+            "id": "673"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Organigrama Govern Catalunya Obert", 
+            "weight": 7, 
+            "id": "672"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "671"
+        }, 
+        {
+            "type": "topic", 
+            "name": "activitats culturals/oci", 
+            "weight": 0, 
+            "id": "670"
+        }, 
+        {
+            "type": "user", 
+            "name": "jessica", 
+            "weight": 2, 
+            "id": "94"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: MOMENTOS CASUALES", 
+            "weight": 0, 
+            "id": "669"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: MOMENTOS CASUALES", 
+            "weight": 0, 
+            "id": "668"
+        }, 
+        {
+            "type": "user", 
+            "name": "xurxo", 
+            "weight": 1, 
+            "id": "76"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "weight": 0, 
+            "id": "667"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Momentos Casuales", 
+            "weight": 2, 
+            "id": "666"
+        }, 
+        {
+            "type": "user", 
+            "name": "mabodo", 
+            "weight": 2, 
+            "id": "87"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "weight": 0, 
+            "id": "665"
+        }, 
+        {
+            "type": "user", 
+            "name": "emartinborregon", 
+            "weight": 5, 
+            "id": "71"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "weight": 0, 
+            "id": "664"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "weight": 4, 
+            "id": "663"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "660"
+        }, 
+        {
+            "type": "user", 
+            "name": "itziar", 
+            "weight": 2, 
+            "id": "91"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "659"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: El pl\u00e0stic i el nostre entorn.", 
+            "weight": 0, 
+            "id": "658"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "weight": 0, 
+            "id": "657"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "656"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "weight": 0, 
+            "id": "654"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "653"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Real-time BCN", 
+            "weight": 0, 
+            "id": "652"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Arregla el meu carrer", 
+            "weight": 0, 
+            "id": "651"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "650"
+        }, 
+        {
+            "type": "user", 
+            "name": "akira", 
+            "weight": 1, 
+            "id": "89"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "649"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "648"
+        }, 
+        {
+            "type": "user", 
+            "name": "xaxo81", 
+            "weight": 4, 
+            "id": "60"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "647"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "646"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 0, 
+            "id": "645"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Informaci\u00f3 en temps real d&#039;alta muntanya", 
+            "weight": 0, 
+            "id": "641"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "640"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "639"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "638"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "637"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "635"
+        }, 
+        {
+            "type": "user", 
+            "name": "oscar-romero", 
+            "weight": 1, 
+            "id": "86"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Informaci\u00f3 en temps real d&#039;alta muntanya", 
+            "weight": 0, 
+            "id": "634"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 0, 
+            "id": "633"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "632"
+        }, 
+        {
+            "type": "user", 
+            "name": "rocio", 
+            "weight": 3, 
+            "id": "64"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "631"
+        }, 
+        {
+            "type": "user", 
+            "name": "tavi", 
+            "weight": 2, 
+            "id": "42"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "weight": 0, 
+            "id": "630"
+        }, 
+        {
+            "type": "user", 
+            "name": "patri", 
+            "weight": 1, 
+            "id": "77"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "629"
+        }, 
+        {
+            "type": "user", 
+            "name": "lucas", 
+            "weight": 1, 
+            "id": "81"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "weight": 0, 
+            "id": "628"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "623"
+        }, 
+        {
+            "type": "user", 
+            "name": "ictlogist", 
+            "weight": 2, 
+            "id": "78"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Fitxa de pol\u00edtiques p\u00fabliques", 
+            "weight": 3, 
+            "id": "622"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "621"
+        }, 
+        {
+            "type": "user", 
+            "name": "claudiasbon", 
+            "weight": 1, 
+            "id": "75"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "620"
+        }, 
+        {
+            "type": "user", 
+            "name": "sergi-nadal-francesch", 
+            "weight": 1, 
+            "id": "74"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Informaci\u00f3 en temps real d'alta muntanya", 
+            "weight": 2, 
+            "id": "619"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "weight": 2, 
+            "id": "618"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "617"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Arregla el meu carrer", 
+            "weight": 0, 
+            "id": "616"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Real-time BCN", 
+            "weight": 0, 
+            "id": "615"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "612"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "609"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "605"
+        }, 
+        {
+            "type": "user", 
+            "name": "ekonlab", 
+            "weight": 1, 
+            "id": "46"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "604"
+        }, 
+        {
+            "type": "user", 
+            "name": "martinam", 
+            "weight": 3, 
+            "id": "12"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "603"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "weight": 0, 
+            "id": "602"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "601"
+        }, 
+        {
+            "type": "user", 
+            "name": "carol", 
+            "weight": 3, 
+            "id": "61"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "600"
+        }, 
+        {
+            "type": "user", 
+            "name": "ferran", 
+            "weight": 1, 
+            "id": "58"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 0, 
+            "id": "599"
+        }, 
+        {
+            "type": "user", 
+            "name": "fcasanellas", 
+            "weight": 4, 
+            "id": "25"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "598"
+        }, 
+        {
+            "type": "user", 
+            "name": "oscarmarin", 
+            "weight": 4, 
+            "id": "49"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "596"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "595"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "594"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "weight": 12, 
+            "id": "593"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "592"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "591"
+        }, 
+        {
+            "type": "topic", 
+            "name": "BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "weight": 2, 
+            "id": "588"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 0, 
+            "id": "586"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Android app realitat augmentada, punt tic / equipaments", 
+            "weight": 0, 
+            "id": "585"
+        }, 
+        {
+            "type": "user", 
+            "name": "itnig", 
+            "weight": 2, 
+            "id": "37"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 0, 
+            "id": "584"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "583"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "582"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "weight": 0, 
+            "id": "581"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 0, 
+            "id": "580"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Idioma", 
+            "weight": 0, 
+            "id": "571"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Real-time BCN", 
+            "weight": 0, 
+            "id": "570"
+        }, 
+        {
+            "type": "user", 
+            "name": "ruben", 
+            "weight": 1, 
+            "id": "54"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Real-time BCN", 
+            "weight": 0, 
+            "id": "569"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Real-time BCN", 
+            "weight": 5, 
+            "id": "568"
+        }, 
+        {
+            "type": "topic", 
+            "name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "weight": 13, 
+            "id": "567"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Montar infraestructura de streaming masivo", 
+            "weight": 0, 
+            "id": "566"
+        }, 
+        {
+            "type": "user", 
+            "name": "jminguillona", 
+            "weight": 1, 
+            "id": "21"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Banc d&#039;imatges i v\u00eddeos lliure", 
+            "weight": 0, 
+            "id": "565"
+        }, 
+        {
+            "type": "user", 
+            "name": "eskerda", 
+            "weight": 1, 
+            "id": "44"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Bicing", 
+            "weight": 0, 
+            "id": "564"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "weight": 2, 
+            "id": "563"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Bicing", 
+            "weight": 0, 
+            "id": "558"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Arregla el meu carrer", 
+            "weight": 2, 
+            "id": "556"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Els diputats/des treballen per nosaltres", 
+            "weight": 1, 
+            "id": "555"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: El pl\u00e0stic i el nostre entorn.", 
+            "weight": 0, 
+            "id": "554"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Bicing", 
+            "weight": 0, 
+            "id": "553"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 0, 
+            "id": "552"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Conoce y sigue a tus representantes", 
+            "weight": 0, 
+            "id": "551"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "550"
+        }, 
+        {
+            "type": "user", 
+            "name": "estebangese", 
+            "weight": 1, 
+            "id": "39"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Idioma", 
+            "weight": 1, 
+            "id": "549"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 0, 
+            "id": "548"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "weight": 6, 
+            "id": "547"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Missatges no tradu\u00efts", 
+            "weight": 0, 
+            "id": "543"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "weight": 0, 
+            "id": "535"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "526"
+        }, 
+        {
+            "type": "user", 
+            "name": "sergiandreplace", 
+            "weight": 2, 
+            "id": "29"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "525"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Missatges no tradu\u00efts", 
+            "weight": 0, 
+            "id": "524"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Banc d&#039;imatges i v\u00eddeos lliure", 
+            "weight": 2, 
+            "id": "514"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "weight": 9, 
+            "id": "512"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "511"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 0, 
+            "id": "509"
+        }, 
+        {
+            "type": "user", 
+            "name": "toni", 
+            "weight": 1, 
+            "id": "23"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "508"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Montar infraestructura de streaming masivo", 
+            "weight": 0, 
+            "id": "501"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "weight": 0, 
+            "id": "496"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "weight": 0, 
+            "id": "487"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "weight": 0, 
+            "id": "480"
+        }, 
+        {
+            "type": "user", 
+            "name": "rocboronat", 
+            "weight": 1, 
+            "id": "20"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Bicing", 
+            "weight": 3, 
+            "id": "430"
+        }, 
+        {
+            "type": "feedback", 
+            "name": "Josep Jordana - 2013-03-23 22:21:04", 
+            "weight": 0, 
+            "id": "349"
+        }, 
+        {
+            "type": "safecss", 
+            "name": "safecss", 
+            "weight": 0, 
+            "id": "311"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "weight": 0, 
+            "id": "309"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Base de dades epistolars", 
+            "weight": 0, 
+            "id": "293"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "weight": 7, 
+            "id": "292"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "weight": 20, 
+            "id": "291"
+        }, 
+        {
+            "type": "user", 
+            "name": "gui", 
+            "weight": 3, 
+            "id": "19"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Montar infraestructura de streaming masivo", 
+            "weight": 2, 
+            "id": "290"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Migrar poblenousensefils a qMp", 
+            "weight": 0, 
+            "id": "289"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "weight": 2, 
+            "id": "288"
+        }, 
+        {
+            "type": "feedback", 
+            "name": "Eneida - 2013-03-20 13:36:11", 
+            "weight": 0, 
+            "id": "284"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "282"
+        }, 
+        {
+            "type": "user", 
+            "name": "delfi_ramirez", 
+            "weight": 3, 
+            "id": "13"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Arxiu Funcions", 
+            "weight": 0, 
+            "id": "281"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Arxiu Funcions", 
+            "weight": 0, 
+            "id": "256"
+        }, 
+        {
+            "type": "forum", 
+            "name": "Casos d'\u00e8xit", 
+            "weight": 3, 
+            "id": "252"
+        }, 
+        {
+            "type": "forum", 
+            "name": "F\u00f2rum dels Projectes Actius", 
+            "weight": 4, 
+            "id": "249"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "248"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Arxiu Funcions", 
+            "weight": 2, 
+            "id": "246"
+        }, 
+        {
+            "type": "topic", 
+            "name": "imatge actual al Wordle", 
+            "weight": 0, 
+            "id": "241"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "239"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "237"
+        }, 
+        {
+            "type": "user", 
+            "name": "skoria", 
+            "weight": 1, 
+            "id": "10"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Espais publics simbiotics", 
+            "weight": 0, 
+            "id": "234"
+        }, 
+        {
+            "type": "user", 
+            "name": "miquelmora", 
+            "weight": 1, 
+            "id": "11"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 0, 
+            "id": "233"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Visualitzaci\u00f3 en temps real de l'activitat del Weekend", 
+            "weight": 3, 
+            "id": "219"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "weight": 8, 
+            "id": "217"
+        }, 
+        {
+            "type": "user", 
+            "name": "kippelboy", 
+            "weight": 1, 
+            "id": "8"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Guia cultural ciutadana d\u2019edificis hist\u00f2rics de la ciutat", 
+            "weight": 0, 
+            "id": "206"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Guia cultural ciutadana d'edificis hist\u00f2rics de la ciutat", 
+            "weight": 1, 
+            "id": "199"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: El pl\u00e0stic i el nostre entorn.", 
+            "weight": 0, 
+            "id": "198"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: Missatges no tradu\u00efts", 
+            "weight": 0, 
+            "id": "190"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Missatges no tradu\u00efts", 
+            "weight": 3, 
+            "id": "189"
+        }, 
+        {
+            "type": "topic", 
+            "name": "Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "weight": 2, 
+            "id": "185"
+        }, 
+        {
+            "type": "reply", 
+            "name": "Respondre a: El pl\u00e0stic i el nostre entorn.", 
+            "weight": 0, 
+            "id": "171"
+        }, 
+        {
+            "type": "topic", 
+            "name": "El pl\u00e0stic i el nostre entorn.", 
+            "weight": 4, 
+            "id": "170"
+        }
+    ], 
+    "links": [
+        {
+            "target_name": "BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "source": "770", 
+            "source_name": "Resposta a: BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "id": 0, 
+            "target": "588"
+        }, 
+        {
+            "target_name": "Resposta a: BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "source": "65", 
+            "source_name": "rguerrero", 
+            "id": 1, 
+            "target": "770"
+        }, 
+        {
+            "target_name": "Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "source": "769", 
+            "source_name": "Resposta a: Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "id": 2, 
+            "target": "618"
+        }, 
+        {
+            "target_name": "Resposta a: Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "source": "72", 
+            "source_name": "vanesa-alarcon", 
+            "id": 3, 
+            "target": "769"
+        }, 
+        {
+            "target_name": "BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "source": "768", 
+            "source_name": "Resposta a: BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "id": 4, 
+            "target": "588"
+        }, 
+        {
+            "target_name": "Resposta a: BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "source": "72", 
+            "source_name": "vanesa-alarcon", 
+            "id": 5, 
+            "target": "768"
+        }, 
+        {
+            "target_name": "Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "source": "766", 
+            "source_name": "Resposta a: Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "id": 6, 
+            "target": "288"
+        },
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "765", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "id": 8, 
+            "target": "291"
+        },
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "764", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "id": 10, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 11, 
+            "target": "764"
+        }, 
+        {
+            "target_name": "Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "source": "742", 
+            "source_name": "Resposta a: Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "id": 12, 
+            "target": "717"
+        },
+        {
+            "target_name": "the  cakes garden", 
+            "source": "736", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 14, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "735", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 16, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "734", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 18, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "733", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 20, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "732", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 22, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "731", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 24, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "730", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 26, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "729", 
+            "source_name": "Resposta a: the  cakes garden", 
+            "id": 28, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "728", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 30, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "53", 
+            "source_name": "eduard", 
+            "id": 31, 
+            "target": "728"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "727", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 32, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "57", 
+            "source_name": "elisenda10", 
+            "id": 33, 
+            "target": "727"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "726", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 34, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 35, 
+            "target": "726"
+        }, 
+        {
+            "target_name": "Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "source": "722", 
+            "source_name": "Resposta a: Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "id": 36, 
+            "target": "288"
+        }, 
+        {
+            "target_name": "Resposta a: Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 37, 
+            "target": "722"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "721", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 38, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "82", 
+            "source_name": "tonibardia", 
+            "id": 39, 
+            "target": "721"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "720", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 40, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 41, 
+            "target": "720"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "719", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 42, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "82", 
+            "source_name": "tonibardia", 
+            "id": 43, 
+            "target": "719"
+        }, 
+        {
+            "target_name": "Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "source": "718", 
+            "source_name": "Resposta a: Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "id": 44, 
+            "target": "717"
+        }, 
+        {
+            "target_name": "Resposta a: Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "source": "104", 
+            "source_name": "evaluatel", 
+            "id": 45, 
+            "target": "718"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes Actius", 
+            "source": "717", 
+            "source_name": "Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "id": 46, 
+            "target": "249"
+        }, 
+        {
+            "target_name": "Predicci\u00f3n h\u00e1bitos de eficiencia energ\u00e9tica y voto ecologista", 
+            "source": "104", 
+            "source_name": "evaluatel", 
+            "id": 47, 
+            "target": "717"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "716", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 48, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 49, 
+            "target": "716"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "715", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 50, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "82", 
+            "source_name": "tonibardia", 
+            "id": 51, 
+            "target": "715"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "713", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 52, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 53, 
+            "target": "713"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "712", 
+            "source_name": "Listado web para obrir datos", 
+            "id": 54, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Listado web para obrir datos", 
+            "source": "36", 
+            "source_name": "sebastiano", 
+            "id": 55, 
+            "target": "712"
+        }, 
+        {
+            "target_name": "El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "source": "711", 
+            "source_name": "Resposta a: El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "id": 56, 
+            "target": "678"
+        }, 
+        {
+            "target_name": "Resposta a: El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "source": "102", 
+            "source_name": "gilbebo", 
+            "id": 57, 
+            "target": "711"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "710", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 58, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "36", 
+            "source_name": "sebastiano", 
+            "id": 59, 
+            "target": "710"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "709", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 60, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "27", 
+            "source_name": "jordigraells", 
+            "id": 61, 
+            "target": "709"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "708", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 62, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 63, 
+            "target": "708"
+        }, 
+        {
+            "target_name": "Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "705", 
+            "source_name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "id": 64, 
+            "target": "622"
+        }, 
+        {
+            "target_name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "104", 
+            "source_name": "evaluatel", 
+            "id": 65, 
+            "target": "705"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "704", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 66, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "36", 
+            "source_name": "sebastiano", 
+            "id": 67, 
+            "target": "704"
+        }, 
+        {
+            "target_name": "El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "source": "703", 
+            "source_name": "Resposta a: El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "id": 68, 
+            "target": "678"
+        }, 
+        {
+            "target_name": "Resposta a: El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "source": "104", 
+            "source_name": "evaluatel", 
+            "id": 69, 
+            "target": "703"
+        }, 
+        {
+            "target_name": "Banc d&#039;imatges i v\u00eddeos lliure", 
+            "source": "702", 
+            "source_name": "Resposta a: Banc d&#039;imatges i v\u00eddeos lliure", 
+            "id": 70, 
+            "target": "514"
+        }, 
+        {
+            "target_name": "Resposta a: Banc d&#039;imatges i v\u00eddeos lliure", 
+            "source": "104", 
+            "source_name": "evaluatel", 
+            "id": 71, 
+            "target": "702"
+        }, 
+        {
+            "target_name": "Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "source": "699", 
+            "source_name": "Resposta a: Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "id": 72, 
+            "target": "618"
+        }, 
+        {
+            "target_name": "Resposta a: Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "source": "104", 
+            "source_name": "evaluatel", 
+            "id": 73, 
+            "target": "699"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "688", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 74, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 75, 
+            "target": "688"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes Actius", 
+            "source": "687", 
+            "source_name": "the  cakes garden", 
+            "id": 76, 
+            "target": "249"
+        }, 
+        {
+            "target_name": "the  cakes garden", 
+            "source": "105", 
+            "source_name": "thecakesgarden", 
+            "id": 77, 
+            "target": "687"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "686", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 78, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 79, 
+            "target": "686"
+        }, 
+        {
+            "target_name": "Els diputats/des treballen per nosaltres", 
+            "source": "685", 
+            "source_name": "Resposta a: Els diputats/des treballen per nosaltres", 
+            "id": 80, 
+            "target": "555"
+        }, 
+        {
+            "target_name": "Resposta a: Els diputats/des treballen per nosaltres", 
+            "source": "103", 
+            "source_name": "comcom", 
+            "id": 81, 
+            "target": "685"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "684", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 82, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "103", 
+            "source_name": "comcom", 
+            "id": 83, 
+            "target": "684"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "683", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 84, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "103", 
+            "source_name": "comcom", 
+            "id": 85, 
+            "target": "683"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "682", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 86, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "88", 
+            "source_name": "tweekat", 
+            "id": 87, 
+            "target": "682"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "681", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 88, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "88", 
+            "source_name": "tweekat", 
+            "id": 89, 
+            "target": "681"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "679", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 90, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "7", 
+            "source_name": "monica", 
+            "id": 91, 
+            "target": "679"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "678", 
+            "source_name": "El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "id": 92, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "El puls de l&#039;atur prov\u00edncia a prov\u00edncia", 
+            "source": "102", 
+            "source_name": "gilbebo", 
+            "id": 93, 
+            "target": "678"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "677", 
+            "source_name": "Organigrama Ajuntament", 
+            "id": 94, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Organigrama Ajuntament", 
+            "source": "16", 
+            "source_name": "lluisridao", 
+            "id": 95, 
+            "target": "677"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "676", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 96, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "36", 
+            "source_name": "sebastiano", 
+            "id": 97, 
+            "target": "676"
+        }, 
+        {
+            "target_name": "Real-time BCN", 
+            "source": "675", 
+            "source_name": "Resposta a: Real-time BCN", 
+            "id": 98, 
+            "target": "568"
+        }, 
+        {
+            "target_name": "Resposta a: Real-time BCN", 
+            "source": "50", 
+            "source_name": "hermesite", 
+            "id": 99, 
+            "target": "675"
+        }, 
+        {
+            "target_name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "674", 
+            "source_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "id": 100, 
+            "target": "663"
+        }, 
+        {
+            "target_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "88", 
+            "source_name": "tweekat", 
+            "id": 101, 
+            "target": "674"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "673", 
+            "source_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "id": 102, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Resposta a: Organigrama Govern Catalunya Obert", 
+            "source": "101", 
+            "source_name": "sejoska", 
+            "id": 103, 
+            "target": "673"
+        }, 
+        {
+            "target_name": "Casos d'\u00e8xit", 
+            "source": "672", 
+            "source_name": "Organigrama Govern Catalunya Obert", 
+            "id": 104, 
+            "target": "252"
+        }, 
+        {
+            "target_name": "Organigrama Govern Catalunya Obert", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 105, 
+            "target": "672"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "671", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 106, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 107, 
+            "target": "671"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "670", 
+            "source_name": "activitats culturals/oci", 
+            "id": 108, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "activitats culturals/oci", 
+            "source": "16", 
+            "source_name": "lluisridao", 
+            "id": 109, 
+            "target": "670"
+        }, 
+        {
+            "target_name": "Momentos Casuales", 
+            "source": "669", 
+            "source_name": "Resposta a: MOMENTOS CASUALES", 
+            "id": 110, 
+            "target": "666"
+        }, 
+        {
+            "target_name": "Resposta a: MOMENTOS CASUALES", 
+            "source": "94", 
+            "source_name": "jessica", 
+            "id": 111, 
+            "target": "669"
+        }, 
+        {
+            "target_name": "Momentos Casuales", 
+            "source": "668", 
+            "source_name": "Resposta a: MOMENTOS CASUALES", 
+            "id": 112, 
+            "target": "666"
+        }, 
+        {
+            "target_name": "Resposta a: MOMENTOS CASUALES", 
+            "source": "88", 
+            "source_name": "tweekat", 
+            "id": 113, 
+            "target": "668"
+        }, 
+        {
+            "target_name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "667", 
+            "source_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "id": 114, 
+            "target": "663"
+        }, 
+        {
+            "target_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "76", 
+            "source_name": "xurxo", 
+            "id": 115, 
+            "target": "667"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "666", 
+            "source_name": "Momentos Casuales", 
+            "id": 116, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Momentos Casuales", 
+            "source": "94", 
+            "source_name": "jessica", 
+            "id": 117, 
+            "target": "666"
+        }, 
+        {
+            "target_name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "665", 
+            "source_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "id": 118, 
+            "target": "663"
+        }, 
+        {
+            "target_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "87", 
+            "source_name": "mabodo", 
+            "id": 119, 
+            "target": "665"
+        }, 
+        {
+            "target_name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "664", 
+            "source_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "id": 120, 
+            "target": "663"
+        }, 
+        {
+            "target_name": "Resposta a: Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "71", 
+            "source_name": "emartinborregon", 
+            "id": 121, 
+            "target": "664"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "663", 
+            "source_name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "id": 122, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Com veuen les diferents llengues wikipedia la peninsula iberica", 
+            "source": "71", 
+            "source_name": "emartinborregon", 
+            "id": 123, 
+            "target": "663"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "660", 
+            "source_name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 124, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 125, 
+            "target": "660"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "659", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 126, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "91", 
+            "source_name": "itziar", 
+            "id": 127, 
+            "target": "659"
+        }, 
+        {
+            "target_name": "El pl\u00e0stic i el nostre entorn.", 
+            "source": "658", 
+            "source_name": "Resposta a: El pl\u00e0stic i el nostre entorn.", 
+            "id": 128, 
+            "target": "170"
+        }, 
+        {
+            "target_name": "Resposta a: El pl\u00e0stic i el nostre entorn.", 
+            "source": "91", 
+            "source_name": "itziar", 
+            "id": 129, 
+            "target": "658"
+        }, 
+        {
+            "target_name": "Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "657", 
+            "source_name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "id": 130, 
+            "target": "622"
+        }, 
+        {
+            "target_name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 131, 
+            "target": "657"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "656", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 132, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 133, 
+            "target": "656"
+        }, 
+        {
+            "target_name": "Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "654", 
+            "source_name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "id": 134, 
+            "target": "622"
+        }, 
+        {
+            "target_name": "Resposta a: Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 135, 
+            "target": "654"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "653", 
+            "source_name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 136, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "65", 
+            "source_name": "rguerrero", 
+            "id": 137, 
+            "target": "653"
+        }, 
+        {
+            "target_name": "Real-time BCN", 
+            "source": "652", 
+            "source_name": "Resposta a: Real-time BCN", 
+            "id": 138, 
+            "target": "568"
+        }, 
+        {
+            "target_name": "Resposta a: Real-time BCN", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 139, 
+            "target": "652"
+        }, 
+        {
+            "target_name": "Arregla el meu carrer", 
+            "source": "651", 
+            "source_name": "Resposta a: Arregla el meu carrer", 
+            "id": 140, 
+            "target": "556"
+        }, 
+        {
+            "target_name": "Resposta a: Arregla el meu carrer", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 141, 
+            "target": "651"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "650", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 142, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 143, 
+            "target": "650"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "649", 
+            "source_name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 144, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Resposta a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "89", 
+            "source_name": "akira", 
+            "id": 145, 
+            "target": "649"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "648", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 146, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "88", 
+            "source_name": "tweekat", 
+            "id": 147, 
+            "target": "648"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "647", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 148, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "60", 
+            "source_name": "xaxo81", 
+            "id": 149, 
+            "target": "647"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "646", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 150, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "53", 
+            "source_name": "eduard", 
+            "id": 151, 
+            "target": "646"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "645", 
+            "source_name": "Resposta a: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 152, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "Informaci\u00f3 en temps real d'alta muntanya", 
+            "source": "641", 
+            "source_name": "Resposta a: Informaci\u00f3 en temps real d&#039;alta muntanya", 
+            "id": 154, 
+            "target": "619"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "640", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 156, 
+            "target": "593"
+        },
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "639", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 158, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 159, 
+            "target": "639"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "638", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 160, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "87", 
+            "source_name": "mabodo", 
+            "id": 161, 
+            "target": "638"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "637", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 162, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 163, 
+            "target": "637"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "635", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 164, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 165, 
+            "target": "635"
+        }, 
+        {
+            "target_name": "Informaci\u00f3 en temps real d'alta muntanya", 
+            "source": "634", 
+            "source_name": "Resposta a: Informaci\u00f3 en temps real d&#039;alta muntanya", 
+            "id": 166, 
+            "target": "619"
+        }, 
+        {
+            "target_name": "Resposta a: Informaci\u00f3 en temps real d&#039;alta muntanya", 
+            "source": "86", 
+            "source_name": "oscar-romero", 
+            "id": 167, 
+            "target": "634"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "633", 
+            "source_name": "Resposta a: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 168, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "Resposta a: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 169, 
+            "target": "633"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "632", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 170, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "85", 
+            "source_name": "toneta", 
+            "id": 171, 
+            "target": "632"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "631", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 172, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "64", 
+            "source_name": "rocio", 
+            "id": 173, 
+            "target": "631"
+        }, 
+        {
+            "target_name": "Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "source": "630", 
+            "source_name": "Resposta a: Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "id": 174, 
+            "target": "563"
+        }, 
+        {
+            "target_name": "Resposta a: Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "source": "42", 
+            "source_name": "tavi", 
+            "id": 175, 
+            "target": "630"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "629", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 176, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "77", 
+            "source_name": "patri", 
+            "id": 177, 
+            "target": "629"
+        }, 
+        {
+            "target_name": "Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "source": "628", 
+            "source_name": "Resposta a: Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "id": 178, 
+            "target": "563"
+        }, 
+        {
+            "target_name": "Resposta a: Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "source": "81", 
+            "source_name": "lucas", 
+            "id": 179, 
+            "target": "628"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "623", 
+            "source_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 180, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Resposta a: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "64", 
+            "source_name": "rocio", 
+            "id": 181, 
+            "target": "623"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "622", 
+            "source_name": "Fitxa de pol\u00edtiques p\u00fabliques", 
+            "id": 182, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Fitxa de pol\u00edtiques p\u00fabliques", 
+            "source": "78", 
+            "source_name": "ictlogist", 
+            "id": 183, 
+            "target": "622"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "621", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 184, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "78", 
+            "source_name": "ictlogist", 
+            "id": 185, 
+            "target": "621"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "620", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 186, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "75", 
+            "source_name": "claudiasbon", 
+            "id": 187, 
+            "target": "620"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "619", 
+            "source_name": "Informaci\u00f3 en temps real d'alta muntanya", 
+            "id": 188, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Informaci\u00f3 en temps real d'alta muntanya", 
+            "source": "74", 
+            "source_name": "sergi-nadal-francesch", 
+            "id": 189, 
+            "target": "619"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "618", 
+            "source_name": "Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "id": 190, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Creaci\u00f3 d&#039;una base de dades o plataforma de mentors", 
+            "source": "72", 
+            "source_name": "vanesa-alarcon", 
+            "id": 191, 
+            "target": "618"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "617", 
+            "source_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 192, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Resposta a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "source": "71", 
+            "source_name": "emartinborregon", 
+            "id": 193, 
+            "target": "617"
+        }, 
+        {
+            "target_name": "Arregla el meu carrer", 
+            "source": "616", 
+            "source_name": "Resposta a: Arregla el meu carrer", 
+            "id": 194, 
+            "target": "556"
+        }, 
+        {
+            "target_name": "Resposta a: Arregla el meu carrer", 
+            "source": "71", 
+            "source_name": "emartinborregon", 
+            "id": 195, 
+            "target": "616"
+        }, 
+        {
+            "target_name": "Real-time BCN", 
+            "source": "615", 
+            "source_name": "Resposta a: Real-time BCN", 
+            "id": 196, 
+            "target": "568"
+        }, 
+        {
+            "target_name": "Resposta a: Real-time BCN", 
+            "source": "71", 
+            "source_name": "emartinborregon", 
+            "id": 197, 
+            "target": "615"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "612", 
+            "source_name": "Resposta a: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 198, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "609", 
+            "source_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 200, 
+            "target": "567"
+        },
+	{
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "605", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 202, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "604", 
+            "source_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 204, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "46", 
+            "source_name": "ekonlab", 
+            "id": 205, 
+            "target": "604"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "603", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 206, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "source": "12", 
+            "source_name": "martinam", 
+            "id": 207, 
+            "target": "603"
+        }, 
+        {
+            "target_name": "Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "source": "602", 
+            "source_name": "Reply To: Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "id": 208, 
+            "target": "185"
+        }, 
+        {
+            "target_name": "Reply To: Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "source": "12", 
+            "source_name": "martinam", 
+            "id": 209, 
+            "target": "602"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "601", 
+            "source_name": "Reply To: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 210, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Reply To: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "60", 
+            "source_name": "xaxo81", 
+            "id": 211, 
+            "target": "601"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "600", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 212, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "source": "61", 
+            "source_name": "carol", 
+            "id": 213, 
+            "target": "600"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "599", 
+            "source_name": "Reply To: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 214, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Reply To: Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "58", 
+            "source_name": "ferran", 
+            "id": 215, 
+            "target": "599"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "598", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 216, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "source": "25", 
+            "source_name": "fcasanellas", 
+            "id": 217, 
+            "target": "598"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "596", 
+            "source_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 218, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "49", 
+            "source_name": "oscarmarin", 
+            "id": 219, 
+            "target": "596"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "595", 
+            "source_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 220, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "25", 
+            "source_name": "fcasanellas", 
+            "id": 221, 
+            "target": "595"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "594", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 222, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "593", 
+            "source_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "id": 224, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 i seguiment dels pressupostos", 
+            "source": "60", 
+            "source_name": "xaxo81", 
+            "id": 225, 
+            "target": "593"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "592", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 226, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "source": "61", 
+            "source_name": "carol", 
+            "id": 227, 
+            "target": "592"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "591", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 228, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "588", 
+            "source_name": "BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "id": 230, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "BBDD p\u00fablica con informaci\u00f3n cl\u00ednica", 
+            "source": "65", 
+            "source_name": "rguerrero", 
+            "id": 231, 
+            "target": "588"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "586", 
+            "source_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 232, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Reply To: BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "64", 
+            "source_name": "rocio", 
+            "id": 233, 
+            "target": "586"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "585", 
+            "source_name": "Android app realitat augmentada, punt tic / equipaments", 
+            "id": 234, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Android app realitat augmentada, punt tic / equipaments", 
+            "source": "12", 
+            "source_name": "martinam", 
+            "id": 235, 
+            "target": "585"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "584", 
+            "source_name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 236, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "37", 
+            "source_name": "itnig", 
+            "id": 237, 
+            "target": "584"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "583", 
+            "source_name": "Reply To: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 238, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Reply To: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 239, 
+            "target": "583"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "582", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 240, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "source": "61", 
+            "source_name": "carol", 
+            "id": 241, 
+            "target": "582"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "581", 
+            "source_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "id": 242, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Reply To: Espai de participaci\u00f3 ciutadana en l\u2019\u00e0mbit local", 
+            "source": "60", 
+            "source_name": "xaxo81", 
+            "id": 243, 
+            "target": "581"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "580", 
+            "source_name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 244, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "Idioma", 
+            "source": "571", 
+            "source_name": "Reply To: Idioma", 
+            "id": 246, 
+            "target": "549"
+        }, 
+        {
+            "target_name": "Real-time BCN", 
+            "source": "570", 
+            "source_name": "Reply To: Real-time BCN", 
+            "id": 248, 
+            "target": "568"
+        }, 
+        {
+            "target_name": "Reply To: Real-time BCN", 
+            "source": "49", 
+            "source_name": "oscarmarin", 
+            "id": 249, 
+            "target": "570"
+        }, 
+        {
+            "target_name": "Real-time BCN", 
+            "source": "569", 
+            "source_name": "Reply To: Real-time BCN", 
+            "id": 250, 
+            "target": "568"
+        }, 
+        {
+            "target_name": "Reply To: Real-time BCN", 
+            "source": "54", 
+            "source_name": "ruben", 
+            "id": 251, 
+            "target": "569"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "568", 
+            "source_name": "Real-time BCN", 
+            "id": 252, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Real-time BCN", 
+            "source": "49", 
+            "source_name": "oscarmarin", 
+            "id": 253, 
+            "target": "568"
+        }, 
+        {
+            "target_name": "Casos d'\u00e8xit", 
+            "source": "567", 
+            "source_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "id": 254, 
+            "target": "252"
+        }, 
+        {
+            "target_name": "BCN Data Landscapes: Impresi\u00f3n 3D de topograf\u00edas de datos  de la ciudad", 
+            "source": "49", 
+            "source_name": "oscarmarin", 
+            "id": 255, 
+            "target": "567"
+        }, 
+        {
+            "target_name": "Montar infraestructura de streaming masivo", 
+            "source": "566", 
+            "source_name": "Reply To: Montar infraestructura de streaming masivo", 
+            "id": 256, 
+            "target": "290"
+        }, 
+        {
+            "target_name": "Banc d&#039;imatges i v\u00eddeos lliure", 
+            "source": "565", 
+            "source_name": "Reply To: Banc d&#039;imatges i v\u00eddeos lliure", 
+            "id": 258, 
+            "target": "514"
+        }, 
+        {
+            "target_name": "Reply To: Banc d&#039;imatges i v\u00eddeos lliure", 
+            "source": "21", 
+            "source_name": "jminguillona", 
+            "id": 259, 
+            "target": "565"
+        }, 
+        {
+            "target_name": "Bicing", 
+            "source": "564", 
+            "source_name": "Reply To: Bicing", 
+            "id": 260, 
+            "target": "430"
+        }, 
+        {
+            "target_name": "Reply To: Bicing", 
+            "source": "44", 
+            "source_name": "eskerda", 
+            "id": 261, 
+            "target": "564"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "563", 
+            "source_name": "Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "id": 262, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Crear una xarxa wifi oberta amb smartphones/tablets", 
+            "source": "42", 
+            "source_name": "tavi", 
+            "id": 263, 
+            "target": "563"
+        }, 
+        {
+            "target_name": "Bicing", 
+            "source": "558", 
+            "source_name": "Reply To: Bicing", 
+            "id": 264, 
+            "target": "430"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "556", 
+            "source_name": "Arregla el meu carrer", 
+            "id": 266, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Arregla el meu carrer", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 267, 
+            "target": "556"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "555", 
+            "source_name": "Els diputats/des treballen per nosaltres", 
+            "id": 268, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Els diputats/des treballen per nosaltres", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 269, 
+            "target": "555"
+        }, 
+        {
+            "target_name": "El pl\u00e0stic i el nostre entorn.", 
+            "source": "554", 
+            "source_name": "Reply To: El pl\u00e0stic i el nostre entorn.", 
+            "id": 270, 
+            "target": "170"
+        }, 
+        {
+            "target_name": "Reply To: El pl\u00e0stic i el nostre entorn.", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 271, 
+            "target": "554"
+        }, 
+        {
+            "target_name": "Bicing", 
+            "source": "553", 
+            "source_name": "Reply To: Bicing", 
+            "id": 272, 
+            "target": "430"
+        }, 
+        {
+            "target_name": "Reply To: Bicing", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 273, 
+            "target": "553"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "552", 
+            "source_name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 274, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 275, 
+            "target": "552"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "551", 
+            "source_name": "Conoce y sigue a tus representantes", 
+            "id": 276, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Conoce y sigue a tus representantes", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 277, 
+            "target": "551"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "550", 
+            "source_name": "Reply To: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 278, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Reply To: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "26", 
+            "source_name": "concha", 
+            "id": 279, 
+            "target": "550"
+        }, 
+        {
+            "target_name": "General", 
+            "source": "549", 
+            "source_name": "Idioma", 
+            "id": 280, 
+            "target": "27"
+        }, 
+        {
+            "target_name": "Idioma", 
+            "source": "39", 
+            "source_name": "estebangese", 
+            "id": 281, 
+            "target": "549"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "548", 
+            "source_name": "Reply To: Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 282, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "547", 
+            "source_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "id": 284, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Montar un mapa d&#039;emprenedors a espanya a partir de la BBDD de Crunchbase", 
+            "source": "37", 
+            "source_name": "itnig", 
+            "id": 285, 
+            "target": "547"
+        }, 
+        {
+            "target_name": "Missatges no tradu\u00efts", 
+            "source": "543", 
+            "source_name": "Respondre a: Missatges no tradu\u00efts", 
+            "id": 286, 
+            "target": "189"
+        }, 
+        {
+            "target_name": "Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "source": "535", 
+            "source_name": "Respondre a: Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "id": 288, 
+            "target": "185"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "526", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 290, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "525", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 292, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "29", 
+            "source_name": "sergiandreplace", 
+            "id": 293, 
+            "target": "525"
+        }, 
+        {
+            "target_name": "Missatges no tradu\u00efts", 
+            "source": "524", 
+            "source_name": "Respondre a: Missatges no tradu\u00efts", 
+            "id": 294, 
+            "target": "189"
+        }, 
+        {
+            "target_name": "Respondre a: Missatges no tradu\u00efts", 
+            "source": "29", 
+            "source_name": "sergiandreplace", 
+            "id": 295, 
+            "target": "524"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "514", 
+            "source_name": "Banc d&#039;imatges i v\u00eddeos lliure", 
+            "id": 296, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Banc d&#039;imatges i v\u00eddeos lliure", 
+            "source": "27", 
+            "source_name": "jordigraells", 
+            "id": 297, 
+            "target": "514"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "512", 
+            "source_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "id": 298, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Espai de participaci\u00f3 ciutadana en l'\u00e0mbit local", 
+            "source": "25", 
+            "source_name": "fcasanellas", 
+            "id": 299, 
+            "target": "512"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "511", 
+            "source_name": "Respondre a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 300, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Respondre a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 301, 
+            "target": "511"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "509", 
+            "source_name": "Respondre a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 302, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "Respondre a: Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "25", 
+            "source_name": "fcasanellas", 
+            "id": 303, 
+            "target": "509"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "508", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 304, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "23", 
+            "source_name": "toni", 
+            "id": 305, 
+            "target": "508"
+        }, 
+        {
+            "target_name": "Montar infraestructura de streaming masivo", 
+            "source": "501", 
+            "source_name": "Respondre a: Montar infraestructura de streaming masivo", 
+            "id": 308, 
+            "target": "290"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "496", 
+            "source_name": "Respondre a: Aplicaci\u00f3 m\u00f2bil per a cases buides i d\u2019inmobili\u00e0ries en fallida via m\u00f2bil", 
+            "id": 310, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 en temps real de l'activitat del Weekend", 
+            "source": "487", 
+            "source_name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "id": 313, 
+            "target": "219"
+        }, 
+        {
+            "target_name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "source": "16", 
+            "source_name": "lluisridao", 
+            "id": 314, 
+            "target": "487"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 en temps real de l'activitat del Weekend", 
+            "source": "480", 
+            "source_name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "id": 315, 
+            "target": "219"
+        }, 
+        {
+            "target_name": "", 
+            "source": "1", 
+            "source_name": "admin", 
+            "id": 322, 
+            "target": "451"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Problemes", 
+            "source": "430", 
+            "source_name": "Bicing", 
+            "id": 323, 
+            "target": "35"
+        }, 
+        {
+            "target_name": "Bicing", 
+            "source": "20", 
+            "source_name": "rocboronat", 
+            "id": 324, 
+            "target": "430"
+        }, 
+        {
+            "target_name": "Contactar", 
+            "source": "349", 
+            "source_name": "Josep Jordana - 2013-03-23 22:21:04", 
+            "id": 332, 
+            "target": "148"
+        }, 
+        {
+            "target_name": "Visualitzaci\u00f3 en temps real de l'activitat del Weekend", 
+            "source": "309", 
+            "source_name": "Respondre a: Visualitzaci\u00f3 en temps real de l\u2019activitat del Weekend", 
+            "id": 337, 
+            "target": "219"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "293", 
+            "source_name": "Base de dades epistolars", 
+            "id": 339, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Base de dades epistolars", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 340, 
+            "target": "293"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "292", 
+            "source_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "id": 341, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Objetos sin uso: si a alguien le interesa, que pase a buscarlo", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 342, 
+            "target": "292"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes Actius", 
+            "source": "291", 
+            "source_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "id": 343, 
+            "target": "249"
+        }, 
+        {
+            "target_name": "Aplicaci\u00f3 m\u00f2bil per a desnonaments", 
+            "source": "18", 
+            "source_name": "al", 
+            "id": 344, 
+            "target": "291"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes Actius", 
+            "source": "290", 
+            "source_name": "Montar infraestructura de streaming masivo", 
+            "id": 345, 
+            "target": "249"
+        }, 
+        {
+            "target_name": "Montar infraestructura de streaming masivo", 
+            "source": "19", 
+            "source_name": "gui", 
+            "id": 346, 
+            "target": "290"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "289", 
+            "source_name": "Migrar poblenousensefils a qMp", 
+            "id": 347, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Migrar poblenousensefils a qMp", 
+            "source": "19", 
+            "source_name": "gui", 
+            "id": 348, 
+            "target": "289"
+        }, 
+        {
+            "target_name": "Casos d'\u00e8xit", 
+            "source": "288", 
+            "source_name": "Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "id": 349, 
+            "target": "252"
+        }, 
+        {
+            "target_name": "Modificar la interfaz web de guifi.net para que otorgue rangos ipv6", 
+            "source": "19", 
+            "source_name": "gui", 
+            "id": 350, 
+            "target": "288"
+        }, 
+        {
+            "target_name": "Contactar", 
+            "source": "284", 
+            "source_name": "Eneida - 2013-03-20 13:36:11", 
+            "id": 351, 
+            "target": "148"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "282", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 352, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Arxiu Funcions", 
+            "source": "281", 
+            "source_name": "Respondre a: Arxiu Funcions", 
+            "id": 354, 
+            "target": "246"
+        }, 
+        {
+            "target_name": "Respondre a: Arxiu Funcions", 
+            "source": "13", 
+            "source_name": "delfi_ramirez", 
+            "id": 355, 
+            "target": "281"
+        }, 
+        {
+            "target_name": "Arxiu Funcions", 
+            "source": "256", 
+            "source_name": "Respondre a: Arxiu Funcions", 
+            "id": 360, 
+            "target": "246"
+        }, 
+        {
+            "target_name": "El Taller del Weekend", 
+            "source": "252", 
+            "source_name": "Casos d'\u00e8xit", 
+            "id": 362, 
+            "target": "265"
+        }, 
+        {
+            "target_name": "El Taller del Weekend", 
+            "source": "249", 
+            "source_name": "F\u00f2rum dels Projectes Actius", 
+            "id": 364, 
+            "target": "265"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "248", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 366, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "General", 
+            "source": "246", 
+            "source_name": "Arxiu Funcions", 
+            "id": 368, 
+            "target": "27"
+        }, 
+        {
+            "target_name": "Arxiu Funcions", 
+            "source": "13", 
+            "source_name": "delfi_ramirez", 
+            "id": 369, 
+            "target": "246"
+        }, 
+        {
+            "target_name": "General", 
+            "source": "241", 
+            "source_name": "imatge actual al Wordle", 
+            "id": 370, 
+            "target": "27"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "239", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 372, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "237", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 374, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "13", 
+            "source_name": "delfi_ramirez", 
+            "id": 375, 
+            "target": "237"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Projectes", 
+            "source": "234", 
+            "source_name": "Espais publics simbiotics", 
+            "id": 376, 
+            "target": "33"
+        }, 
+        {
+            "target_name": "Espais publics simbiotics", 
+            "source": "10", 
+            "source_name": "skoria", 
+            "id": 377, 
+            "target": "234"
+        }, 
+        {
+            "target_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "233", 
+            "source_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 378, 
+            "target": "217"
+        }, 
+        {
+            "target_name": "Respondre a: Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "source": "11", 
+            "source_name": "miquelmora", 
+            "id": 379, 
+            "target": "233"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "219", 
+            "source_name": "Visualitzaci\u00f3 en temps real de l'activitat del Weekend", 
+            "id": 380, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "217", 
+            "source_name": "Acabar les traduccions al catal\u00e0 de la plataforma", 
+            "id": 382, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Guia cultural ciutadana d'edificis hist\u00f2rics de la ciutat", 
+            "source": "206", 
+            "source_name": "Respondre a: Guia cultural ciutadana d\u2019edificis hist\u00f2rics de la ciutat", 
+            "id": 384, 
+            "target": "199"
+        }, 
+        {
+            "target_name": "Respondre a: Guia cultural ciutadana d\u2019edificis hist\u00f2rics de la ciutat", 
+            "source": "8", 
+            "source_name": "kippelboy", 
+            "id": 385, 
+            "target": "206"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "199", 
+            "source_name": "Guia cultural ciutadana d'edificis hist\u00f2rics de la ciutat", 
+            "id": 386, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "Guia cultural ciutadana d'edificis hist\u00f2rics de la ciutat", 
+            "source": "7", 
+            "source_name": "monica", 
+            "id": 387, 
+            "target": "199"
+        }, 
+        {
+            "target_name": "El pl\u00e0stic i el nostre entorn.", 
+            "source": "198", 
+            "source_name": "Respondre a: El pl\u00e0stic i el nostre entorn.", 
+            "id": 388, 
+            "target": "170"
+        }, 
+        {
+            "target_name": "Respondre a: El pl\u00e0stic i el nostre entorn.", 
+            "source": "7", 
+            "source_name": "monica", 
+            "id": 389, 
+            "target": "198"
+        }, 
+        {
+            "target_name": "Missatges no tradu\u00efts", 
+            "source": "190", 
+            "source_name": "Respondre a: Missatges no tradu\u00efts", 
+            "id": 390, 
+            "target": "189"
+        }, 
+        {
+            "target_name": "General", 
+            "source": "189", 
+            "source_name": "Missatges no tradu\u00efts", 
+            "id": 392, 
+            "target": "27"
+        }, 
+        {
+            "target_name": "F\u00f2rum de les Idees", 
+            "source": "185", 
+            "source_name": "Un dispositiu que netegi les platges de forma aut\u00f3noma", 
+            "id": 394, 
+            "target": "29"
+        }, 
+        {
+            "target_name": "El pl\u00e0stic i el nostre entorn.", 
+            "source": "171", 
+            "source_name": "Respondre a: El pl\u00e0stic i el nostre entorn.", 
+            "id": 396, 
+            "target": "170"
+        }, 
+        {
+            "target_name": "F\u00f2rum dels Problemes", 
+            "source": "170", 
+            "source_name": "El pl\u00e0stic i el nostre entorn.", 
+            "id": 398, 
+            "target": "35"
+        }, 
+        {
+            "target_name": "La Cuina del Weekend", 
+            "source": "35", 
+            "source_name": "F\u00f2rum dels Problemes", 
+            "id": 418, 
+            "target": "257"
+        }, 
+        {
+            "target_name": "La Cuina del Weekend", 
+            "source": "33", 
+            "source_name": "F\u00f2rum dels Projectes", 
+            "id": 420, 
+            "target": "257"
+        }, 
+        {
+            "target_name": "La Cuina del Weekend", 
+            "source": "29", 
+            "source_name": "F\u00f2rum de les Idees", 
+            "id": 422, 
+            "target": "257"
+        }, 
+        {
+            "target_name": "", 
+            "source": "1", 
+            "source_name": "admin", 
+            "id": 430, 
+            "target": "11"
+        }
+    ]
+}

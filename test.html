@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Secuelas Big Data Week Hackaton Forum Network</title>
+    <link type="text/css" href="css/network-guifi.css" rel="stylesheet" />
+	<script type="text/javascript" src="d3/d3.v3.min.js"></script>
+</head>
+<body>
+
+<div id="selectionbox"><font color="orange">Supernodes</font> - <font color="blue">Clients</font> - <font color="red">AP</font> - Zoom amb la rodeta del ratolí - Ratolí a sobre del node per veure la llegenda</div>   
+
+<div id="selectionbox"><b>(Des)Selecciona per tipus de nodes: </b>
+    <input type="checkbox" id="check3" checked /><label for="check3">Acces Point</label>
+    <input type="checkbox" id="check2" checked /><label for="check2">Client</label>
+    <input type="checkbox" id="check1" checked /><label for="check1">Supernode</label>
+    <input name="updateButton" type="button" value="Update" onclick="redraw" />
+</div>
+
+<script type="text/javascript" charset="utf-8">
+
+
+d3.select("body").selectAll("input")
+.data([11, 22, 33, 44])
+.enter()
+.append('label')
+    .attr('for',function(d,i){ return 'a'+i; })
+    .text(function(d) { return d; })
+.append("input")
+    .attr("checked", true)
+    .attr("type", "checkbox")
+    .attr("id", function(d,i) { return 'a'+i; })
+    .attr("onClick", "change(this)");
+
+</script>
+</body>
+</html>

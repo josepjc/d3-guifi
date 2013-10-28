@@ -1,0 +1,44 @@
+{
+    "nodes": [
+        {
+    "id":1556,
+    "STATUS":"Dropped",
+    "weight":1556,
+    "type":"Supernode",
+    "name":"BCN-COSF",
+    "coordinates":"2.186708,41.384815"
+  },
+  {
+    "id":61692,
+    "STATUS":"Planned",
+    "weight":61692,
+    "type":"N_A",
+    "name":"BCNtressenyores40",
+    "coordinates":"2.158895,41.406903"
+  }
+    ],
+    "links": [
+  {
+    "id":8059,
+    "KMS":5.702,
+    "STATUS":"Working",
+    "target":8768,
+    "source":9422,
+    "LINK_TYPE":"wds",
+    "NODE1_NAME":"BCN-xai-StPau29",
+    "NODE2_NAME":"BCNpontTreball",
+    "coordinates":"2.165669,41.376233 2.197616,41.421594"
+  },
+  {
+    "id":63075,
+    "KMS":2.128,
+    "STATUS":"Working",
+    "target":36118,
+    "source":6149,
+    "LINK_TYPE":"wds",
+    "NODE1_NAME":"HW-Jis",
+    "NODE2_NAME":"HW-Acer",
+    "coordinates":"2.125498,41.368683 2.137601,41.351832"
+  }
+]
+}

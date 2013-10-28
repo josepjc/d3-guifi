@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Secuelas Big Data Week Hackaton Forum Network</title>
+    <link type="text/css" href="css/network-3.css" rel="stylesheet" />
+
+</head>
+<body>
+<div id="selectionbox3"><b>Nodes: <font color="orange">Supernodes</font> - <font color="#3383bb">Clients</font> - <font color="#C60000">AP</font> <b>Links:</b> <font color="orange">wds</font> - <font color="#3383bb">ap/client</font> Zoom in/out</b> amb la rodeta. <b>Els nodes</b> son clickables (pàg. guifi.net) i tenen legenda. 
+</div>
+<form id="controls">
+    <div id="selectionbox2"><b>Dataset</b> 
+        <select id="dataset">
+            <option value="barcelones">Barcelonès</option>
+            <option value="plana-de-vic">Plana de Vic</option>
+            <option value="galiza">Galiza</option>
+            <option value="alacant">Alacant</option>
+            <option value="comunidad-de-madrid">Comunidad de Madrid</option>
+        </select> <b>Selecciona per tipus de nodes:</b>
+        <input type="checkbox" id="check3" checked /><label for="check3">Acces Point</label>
+        <input type="checkbox" id="check2" checked /><label for="check2">Client</label>
+        <input type="checkbox" id="check1" checked /><label for="check1">Supernode</label>
+    </div>
+</form>
+<div>
+    <h3>Types of coaster</h3>
+    <ul id="coaster-types">
+        <li><label><input type="checkbox" checked="checked" value="floorless">Floorless</label></li>
+        <li><label><input type="checkbox" checked="checked" value="inverted">Inverted</label></li>
+        <li><label><input type="checkbox" checked="checked" value="flying">Flying</label></li>
+        <li><label><input type="checkbox" checked="checked" value="sit-down">Sit down</label></li>
+        <li><label><input type="checkbox" checked="checked" value="mega">Mega</label></li>
+        <li><label><input type="checkbox" checked="checked" value="stand-up">Stand up</label></li>
+        <li><label><input type="checkbox" checked="checked" value="dive-machine">Dive machine</label></li>
+        <li><label><input type="checkbox" checked="checked" value="wing-rider">Wing rider</label></li>
+    </ul>
+</div>
+    <script src="d3/d3.v3.min.js"></script>
+    <script src="guifi-3.js"></script>
+</body>
+</html>

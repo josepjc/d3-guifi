@@ -1,0 +1,2109 @@
+{
+  "nodes" : [
+    {
+      "id" : 39200,
+      "STATUS" : "Working",
+      "weight" : 39200,
+      "type" : "client",
+      "name" : "Campo",
+      "coordinates" : "-7.223563,42.681868"
+    },
+    {
+      "id" : 21131,
+      "STATUS" : "Planned",
+      "weight" : 21131,
+      "type" : "Supernode",
+      "name" : "ousf01",
+      "coordinates" : "-7.859334,42.338879"
+    },
+    {
+      "id" : 9262,
+      "STATUS" : "Planned",
+      "weight" : 9262,
+      "type" : "ap",
+      "name" : "CRNVicDamm",
+      "coordinates" : "-7.915263,43.446662"
+    },
+    {
+      "id" : 17986,
+      "STATUS" : "Working",
+      "weight" : 17986,
+      "type" : "ap",
+      "name" : "VigoVagalume",
+      "coordinates" : "-8.769372,42.221362"
+    },
+    {
+      "id" : 21917,
+      "STATUS" : "Building",
+      "weight" : 21917,
+      "type" : "ap",
+      "name" : "VigAngelLemaMarina17",
+      "coordinates" : "-8.692199,42.247722"
+    },
+    {
+      "id" : 54300,
+      "STATUS" : "Building",
+      "weight" : 54300,
+      "type" : "Supernode",
+      "name" : "ORLagunas1",
+      "coordinates" : "-7.855962,42.348096"
+    },
+    {
+      "id" : 23816,
+      "STATUS" : "Working",
+      "weight" : 23816,
+      "type" : "Supernode",
+      "name" : "airapadron",
+      "coordinates" : "-7.276554,42.697064"
+    },
+    {
+      "id" : 24216,
+      "STATUS" : "Planned",
+      "weight" : 24216,
+      "type" : "client",
+      "name" : "basstboneone",
+      "coordinates" : "-8.806572,42.458239"
+    },
+    {
+      "id" : 24444,
+      "STATUS" : "Working",
+      "weight" : 24444,
+      "type" : "Supernode",
+      "name" : "COUrep_ped",
+      "coordinates" : "-7.219992,42.665594"
+    },
+    {
+      "id" : 24739,
+      "STATUS" : "Planned",
+      "weight" : 24739,
+      "type" : "Supernode",
+      "name" : "MeanhoCentroSocial",
+      "coordinates" : "-8.809479,42.449143"
+    },
+    {
+      "id" : 24740,
+      "STATUS" : "Planned",
+      "weight" : 24740,
+      "type" : "Supernode",
+      "name" : "MeanhoSanBieito",
+      "coordinates" : "-8.785817,42.429570"
+    },
+    {
+      "id" : 26119,
+      "STATUS" : "Testing",
+      "weight" : 26119,
+      "type" : "ap",
+      "name" : "VigoHermes",
+      "coordinates" : "-8.703865,42.239110"
+    },
+    {
+      "id" : 26683,
+      "STATUS" : "Planned",
+      "weight" : 26683,
+      "type" : "ap",
+      "name" : "SANFSande",
+      "coordinates" : "-7.533488,43.096468"
+    },
+    {
+      "id" : 61672,
+      "STATUS" : "Working",
+      "weight" : 61672,
+      "type" : "client",
+      "name" : "bustofrio",
+      "coordinates" : "-7.227674,42.675025"
+    },
+    {
+      "id" : 28097,
+      "STATUS" : "Planned",
+      "weight" : 28097,
+      "type" : "Supernode",
+      "name" : "VigoAlga-lab",
+      "coordinates" : "-8.724400,42.176361"
+    },
+    {
+      "id" : 28941,
+      "STATUS" : "Planned",
+      "weight" : 28941,
+      "type" : "ap",
+      "name" : "CRNrdrzOtero5",
+      "coordinates" : "-8.419768,43.372426"
+    },
+    {
+      "id" : 29858,
+      "STATUS" : "Planned",
+      "weight" : 29858,
+      "type" : "Supernode",
+      "name" : "PADOurovello4",
+      "coordinates" : "-8.141643,43.305769"
+    },
+    {
+      "id" : 29859,
+      "STATUS" : "Planned",
+      "weight" : 29859,
+      "type" : "ap",
+      "name" : "MINPousadoira4",
+      "coordinates" : "-8.155682,43.322377"
+    },
+    {
+      "id" : 31857,
+      "STATUS" : "Planned",
+      "weight" : 31857,
+      "type" : "ap",
+      "name" : "CRNRondaOuteiro198",
+      "coordinates" : "-8.417099,43.356957"
+    },
+    {
+      "id" : 31699,
+      "STATUS" : "Planned",
+      "weight" : 31699,
+      "type" : "Supernode",
+      "name" : "PADOurovello10",
+      "coordinates" : "-8.139815,43.306732"
+    },
+    {
+      "id" : 31701,
+      "STATUS" : "Working",
+      "weight" : 31701,
+      "type" : "client",
+      "name" : "PADOurovello12",
+      "coordinates" : "-8.140043,43.306708"
+    },
+    {
+      "id" : 31702,
+      "STATUS" : "Working",
+      "weight" : 31702,
+      "type" : "client",
+      "name" : "PADOurovello6",
+      "coordinates" : "-8.141695,43.306261"
+    },
+    {
+      "id" : 31719,
+      "STATUS" : "Working",
+      "weight" : 31719,
+      "type" : "client",
+      "name" : "PADOurovello6B",
+      "coordinates" : "-8.140596,43.307325"
+    },
+    {
+      "id" : 31720,
+      "STATUS" : "Planned",
+      "weight" : 31720,
+      "type" : "Supernode",
+      "name" : "PADOurovello8",
+      "coordinates" : "-8.140279,43.307419"
+    },
+    {
+      "id" : 31917,
+      "STATUS" : "Working",
+      "weight" : 31917,
+      "type" : "client",
+      "name" : "IRXVilarcia2",
+      "coordinates" : "-8.136309,43.312376"
+    },
+    {
+      "id" : 31918,
+      "STATUS" : "Planned",
+      "weight" : 31918,
+      "type" : "Supernode",
+      "name" : "IRXVilarcia1",
+      "coordinates" : "-8.134099,43.311596"
+    },
+    {
+      "id" : 32053,
+      "STATUS" : "Planned",
+      "weight" : 32053,
+      "type" : "client",
+      "name" : "VILMillarengo",
+      "coordinates" : "-8.113135,43.350765"
+    },
+    {
+      "id" : 32615,
+      "STATUS" : "Planned",
+      "weight" : 32615,
+      "type" : "ap",
+      "name" : "RIAestancoCruceiro",
+      "coordinates" : "-8.925684,42.821408"
+    },
+    {
+      "id" : 32668,
+      "STATUS" : "Planned",
+      "weight" : 32668,
+      "type" : "ap",
+      "name" : "VIGOcvcValadares",
+      "coordinates" : "-8.721857,42.174649"
+    },
+    {
+      "id" : 35449,
+      "STATUS" : "Planned",
+      "weight" : 35449,
+      "type" : "client",
+      "name" : "CRNSnJs15",
+      "coordinates" : "-8.396119,43.374298"
+    },
+    {
+      "id" : 35687,
+      "STATUS" : "Planned",
+      "weight" : 35687,
+      "type" : "client",
+      "name" : "Chelo",
+      "coordinates" : "-7.261534,42.694498"
+    },
+    {
+      "id" : 35680,
+      "STATUS" : "Working",
+      "weight" : 35680,
+      "type" : "client",
+      "name" : "Frrr",
+      "coordinates" : "-7.224219,42.681866"
+    },
+    {
+      "id" : 35681,
+      "STATUS" : "Working",
+      "weight" : 35681,
+      "type" : "client",
+      "name" : "OINveiga",
+      "coordinates" : "-7.295544,42.689533"
+    },
+    {
+      "id" : 35682,
+      "STATUS" : "Working",
+      "weight" : 35682,
+      "type" : "client",
+      "name" : "Martn",
+      "coordinates" : "-7.233939,42.676179"
+    },
+    {
+      "id" : 35683,
+      "STATUS" : "Working",
+      "weight" : 35683,
+      "type" : "client",
+      "name" : "souto",
+      "coordinates" : "-7.251765,42.690728"
+    },
+    {
+      "id" : 35685,
+      "STATUS" : "Working",
+      "weight" : 35685,
+      "type" : "client",
+      "name" : "Casanova",
+      "coordinates" : "-7.222996,42.682794"
+    },
+    {
+      "id" : 35686,
+      "STATUS" : "Working",
+      "weight" : 35686,
+      "type" : "client",
+      "name" : "Aldea",
+      "coordinates" : "-7.242774,42.688579"
+    },
+    {
+      "id" : 35688,
+      "STATUS" : "Working",
+      "weight" : 35688,
+      "type" : "client",
+      "name" : "Cancela",
+      "coordinates" : "-7.261512,42.694486"
+    },
+    {
+      "id" : 35695,
+      "STATUS" : "Working",
+      "weight" : 35695,
+      "type" : "client",
+      "name" : "Portela",
+      "coordinates" : "-7.193449,42.686802"
+    },
+    {
+      "id" : 35785,
+      "STATUS" : "Working",
+      "weight" : 35785,
+      "type" : "Supernode",
+      "name" : "TXR1",
+      "coordinates" : "-7.166777,42.696720"
+    },
+    {
+      "id" : 35787,
+      "STATUS" : "Working",
+      "weight" : 35787,
+      "type" : "client",
+      "name" : "Menor",
+      "coordinates" : "-7.165655,42.695666"
+    },
+    {
+      "id" : 35788,
+      "STATUS" : "Working",
+      "weight" : 35788,
+      "type" : "client",
+      "name" : "Mnldr",
+      "coordinates" : "-7.166321,42.695690"
+    },
+    {
+      "id" : 35789,
+      "STATUS" : "Working",
+      "weight" : 35789,
+      "type" : "client",
+      "name" : "rmst",
+      "coordinates" : "-7.167630,42.695982"
+    },
+    {
+      "id" : 35790,
+      "STATUS" : "Working",
+      "weight" : 35790,
+      "type" : "client",
+      "name" : "crebolal",
+      "coordinates" : "-7.168295,42.696352"
+    },
+    {
+      "id" : 35805,
+      "STATUS" : "Working",
+      "weight" : 35805,
+      "type" : "client",
+      "name" : "xndr",
+      "coordinates" : "-7.168204,42.696056"
+    },
+    {
+      "id" : 35806,
+      "STATUS" : "Working",
+      "weight" : 35806,
+      "type" : "client",
+      "name" : "Lago",
+      "coordinates" : "-7.168719,42.696434"
+    },
+    {
+      "id" : 35807,
+      "STATUS" : "Working",
+      "weight" : 35807,
+      "type" : "client",
+      "name" : "escola",
+      "coordinates" : "-7.166637,42.696261"
+    },
+    {
+      "id" : 35849,
+      "STATUS" : "Working",
+      "weight" : 35849,
+      "type" : "client",
+      "name" : "stdnt",
+      "coordinates" : "-7.166739,42.695848"
+    },
+    {
+      "id" : 53390,
+      "STATUS" : "Working",
+      "weight" : 53390,
+      "type" : "Supernode",
+      "name" : "MDLAltoChavaga",
+      "coordinates" : "-7.435429,42.539449"
+    },
+    {
+      "id" : 53388,
+      "STATUS" : "Planned",
+      "weight" : 53388,
+      "type" : "Supernode",
+      "name" : "BRLLNEscuela",
+      "coordinates" : "-7.394150,42.549728"
+    },
+    {
+      "id" : 36667,
+      "STATUS" : "Working",
+      "weight" : 36667,
+      "type" : "Supernode",
+      "name" : "peltre",
+      "coordinates" : "-7.413180,42.776822"
+    },
+    {
+      "id" : 37591,
+      "STATUS" : "Working",
+      "weight" : 37591,
+      "type" : "client",
+      "name" : "Lopez",
+      "coordinates" : "-7.223189,42.682576"
+    },
+    {
+      "id" : 38769,
+      "STATUS" : "Testing",
+      "weight" : 38769,
+      "type" : "Supernode",
+      "name" : "ABEMontoutoCS",
+      "coordinates" : "-8.328342,43.203501"
+    },
+    {
+      "id" : 38296,
+      "STATUS" : "Planned",
+      "weight" : 38296,
+      "type" : "Supernode",
+      "name" : "cebreiro",
+      "coordinates" : "-7.043899,42.708008"
+    },
+    {
+      "id" : 38495,
+      "STATUS" : "Planned",
+      "weight" : 38495,
+      "type" : "ap",
+      "name" : "CRVconcello",
+      "coordinates" : "-7.063233,42.872921"
+    },
+    {
+      "id" : 38773,
+      "STATUS" : "Working",
+      "weight" : 38773,
+      "type" : "Supernode",
+      "name" : "ABEAPicota14a",
+      "coordinates" : "-8.304733,43.215721"
+    },
+    {
+      "id" : 38770,
+      "STATUS" : "Testing",
+      "weight" : 38770,
+      "type" : "Supernode",
+      "name" : "ABEMontoutoMRR",
+      "coordinates" : "-8.318659,43.208263"
+    },
+    {
+      "id" : 38678,
+      "STATUS" : "Planned",
+      "weight" : 38678,
+      "type" : "ap",
+      "name" : "PADourovello2",
+      "coordinates" : "-8.140318,43.305115"
+    },
+    {
+      "id" : 38760,
+      "STATUS" : "Planned",
+      "weight" : 38760,
+      "type" : "ap",
+      "name" : "VALBedoxa1",
+      "coordinates" : "-8.155750,43.565070"
+    },
+    {
+      "id" : 38768,
+      "STATUS" : "Planned",
+      "weight" : 38768,
+      "type" : "ap",
+      "name" : "VALBedoxa2",
+      "coordinates" : "-8.158806,43.566628"
+    },
+    {
+      "id" : 38813,
+      "STATUS" : "Working",
+      "weight" : 38813,
+      "type" : "Supernode",
+      "name" : "Asar",
+      "coordinates" : "-6.879096,42.985458"
+    },
+    {
+      "id" : 39203,
+      "STATUS" : "Working",
+      "weight" : 39203,
+      "type" : "client",
+      "name" : "Mrtn",
+      "coordinates" : "-7.221342,42.681991"
+    },
+    {
+      "id" : 41296,
+      "STATUS" : "Working",
+      "weight" : 41296,
+      "type" : "ap",
+      "name" : "SARconcello",
+      "coordinates" : "-7.416144,42.776941"
+    },
+    {
+      "id" : 41299,
+      "STATUS" : "Working",
+      "weight" : 41299,
+      "type" : "Supernode",
+      "name" : "LUSaveiga",
+      "coordinates" : "-7.348845,42.793350"
+    },
+    {
+      "id" : 41300,
+      "STATUS" : "Working",
+      "weight" : 41300,
+      "type" : "Supernode",
+      "name" : "Lusescola",
+      "coordinates" : "-7.344468,42.782232"
+    },
+    {
+      "id" : 41743,
+      "STATUS" : "Working",
+      "weight" : 41743,
+      "type" : "ap",
+      "name" : "CRNrioquintas27",
+      "coordinates" : "-8.387445,43.328421"
+    },
+    {
+      "id" : 41754,
+      "STATUS" : "Working",
+      "weight" : 41754,
+      "type" : "ap",
+      "name" : "OLRCubelos21B",
+      "coordinates" : "-8.371711,43.336499"
+    },
+    {
+      "id" : 41934,
+      "STATUS" : "Working",
+      "weight" : 41934,
+      "type" : "client",
+      "name" : "gnzl",
+      "coordinates" : "-7.167120,42.696268"
+    },
+    {
+      "id" : 41986,
+      "STATUS" : "Planned",
+      "weight" : 41986,
+      "type" : "client",
+      "name" : "PADSas75",
+      "coordinates" : "-8.186121,43.312983"
+    },
+    {
+      "id" : 42067,
+      "STATUS" : "Working",
+      "weight" : 42067,
+      "type" : "client",
+      "name" : "LUSciruxana",
+      "coordinates" : "-7.347311,42.781785"
+    },
+    {
+      "id" : 42068,
+      "STATUS" : "Working",
+      "weight" : 42068,
+      "type" : "client",
+      "name" : "LUSsomoza",
+      "coordinates" : "-7.347472,42.782444"
+    },
+    {
+      "id" : 42070,
+      "STATUS" : "Working",
+      "weight" : 42070,
+      "type" : "client",
+      "name" : "LUSnesario",
+      "coordinates" : "-7.347622,42.782684"
+    },
+    {
+      "id" : 42071,
+      "STATUS" : "Working",
+      "weight" : 42071,
+      "type" : "client",
+      "name" : "LUSquintana",
+      "coordinates" : "-7.347611,42.783202"
+    },
+    {
+      "id" : 42072,
+      "STATUS" : "Working",
+      "weight" : 42072,
+      "type" : "client",
+      "name" : "LUSzarralleiro",
+      "coordinates" : "-7.349006,42.783635"
+    },
+    {
+      "id" : 42074,
+      "STATUS" : "Working",
+      "weight" : 42074,
+      "type" : "client",
+      "name" : "LUSrebordelos",
+      "coordinates" : "-7.349752,42.783735"
+    },
+    {
+      "id" : 42075,
+      "STATUS" : "Working",
+      "weight" : 42075,
+      "type" : "client",
+      "name" : "LUScarril",
+      "coordinates" : "-7.349558,42.784234"
+    },
+    {
+      "id" : 42076,
+      "STATUS" : "Working",
+      "weight" : 42076,
+      "type" : "client",
+      "name" : "LUScastor",
+      "coordinates" : "-7.349993,42.783950"
+    },
+    {
+      "id" : 42077,
+      "STATUS" : "Working",
+      "weight" : 42077,
+      "type" : "client",
+      "name" : "LUSescaleira",
+      "coordinates" : "-7.346646,42.790116"
+    },
+    {
+      "id" : 42078,
+      "STATUS" : "Working",
+      "weight" : 42078,
+      "type" : "client",
+      "name" : "LUSsouto",
+      "coordinates" : "-7.345476,42.793455"
+    },
+    {
+      "id" : 42079,
+      "STATUS" : "Working",
+      "weight" : 42079,
+      "type" : "client",
+      "name" : "LUScorreo",
+      "coordinates" : "-7.347938,42.791483"
+    },
+    {
+      "id" : 42080,
+      "STATUS" : "Working",
+      "weight" : 42080,
+      "type" : "client",
+      "name" : "LUSduro",
+      "coordinates" : "-7.349746,42.789318"
+    },
+    {
+      "id" : 42081,
+      "STATUS" : "Working",
+      "weight" : 42081,
+      "type" : "client",
+      "name" : "LUSbarreda",
+      "coordinates" : "-7.337670,42.785525"
+    },
+    {
+      "id" : 42082,
+      "STATUS" : "Working",
+      "weight" : 42082,
+      "type" : "Supernode",
+      "name" : "LUSvertalo",
+      "coordinates" : "-7.339650,42.785685"
+    },
+    {
+      "id" : 42084,
+      "STATUS" : "Working",
+      "weight" : 42084,
+      "type" : "client",
+      "name" : "LUSsobrado",
+      "coordinates" : "-7.337853,42.783381"
+    },
+    {
+      "id" : 42085,
+      "STATUS" : "Working",
+      "weight" : 42085,
+      "type" : "client",
+      "name" : "LUSsobrado_",
+      "coordinates" : "-7.338175,42.783259"
+    },
+    {
+      "id" : 42086,
+      "STATUS" : "Working",
+      "weight" : 42086,
+      "type" : "client",
+      "name" : "LUSpereira",
+      "coordinates" : "-7.342708,42.783187"
+    },
+    {
+      "id" : 42087,
+      "STATUS" : "Working",
+      "weight" : 42087,
+      "type" : "client",
+      "name" : "LUScorgafonda",
+      "coordinates" : "-7.343604,42.783129"
+    },
+    {
+      "id" : 42088,
+      "STATUS" : "Working",
+      "weight" : 42088,
+      "type" : "client",
+      "name" : "LUSpoga",
+      "coordinates" : "-7.344116,42.782883"
+    },
+    {
+      "id" : 42089,
+      "STATUS" : "Working",
+      "weight" : 42089,
+      "type" : "client",
+      "name" : "LUSpoga_",
+      "coordinates" : "-7.345074,42.782767"
+    },
+    {
+      "id" : 42090,
+      "STATUS" : "Working",
+      "weight" : 42090,
+      "type" : "client",
+      "name" : "LUSveiga",
+      "coordinates" : "-7.351248,42.778750"
+    },
+    {
+      "id" : 42091,
+      "STATUS" : "Working",
+      "weight" : 42091,
+      "type" : "client",
+      "name" : "LUSacal",
+      "coordinates" : "-7.351120,42.776735"
+    },
+    {
+      "id" : 42358,
+      "STATUS" : "Working",
+      "weight" : 42358,
+      "type" : "ap",
+      "name" : "VigoDiezdeMarzo1",
+      "coordinates" : "-8.739186,42.214823"
+    },
+    {
+      "id" : 42530,
+      "STATUS" : "Planned",
+      "weight" : 42530,
+      "type" : "Supernode",
+      "name" : "PADSas44",
+      "coordinates" : "-8.182411,43.312269"
+    },
+    {
+      "id" : 43052,
+      "STATUS" : "Planned",
+      "weight" : 43052,
+      "type" : "ap",
+      "name" : "BEcon",
+      "coordinates" : "-7.161477,42.853113"
+    },
+    {
+      "id" : 45131,
+      "STATUS" : "Working",
+      "weight" : 45131,
+      "type" : "client",
+      "name" : "LUSveiga_",
+      "coordinates" : "-7.346554,42.781657"
+    },
+    {
+      "id" : 44765,
+      "STATUS" : "Working",
+      "weight" : 44765,
+      "type" : "Supernode",
+      "name" : "PNTpontacons2",
+      "coordinates" : "-8.514610,42.212150"
+    },
+    {
+      "id" : 58522,
+      "STATUS" : "Working",
+      "weight" : 58522,
+      "type" : "ap",
+      "name" : "VGOcarme1",
+      "coordinates" : "-8.729224,42.220424"
+    },
+    {
+      "id" : 45000,
+      "STATUS" : "Working",
+      "weight" : 45000,
+      "type" : "client",
+      "name" : "LUScruz",
+      "coordinates" : "-7.345707,42.783248"
+    },
+    {
+      "id" : 45039,
+      "STATUS" : "Working",
+      "weight" : 45039,
+      "type" : "client",
+      "name" : "LUSjavier",
+      "coordinates" : "-7.357364,42.774220"
+    },
+    {
+      "id" : 45132,
+      "STATUS" : "Working",
+      "weight" : 45132,
+      "type" : "client",
+      "name" : "LUScorreo_",
+      "coordinates" : "-7.348051,42.793543"
+    },
+    {
+      "id" : 45444,
+      "STATUS" : "Working",
+      "weight" : 45444,
+      "type" : "client",
+      "name" : "LUSpacio",
+      "coordinates" : "-7.340525,42.784016"
+    },
+    {
+      "id" : 46926,
+      "STATUS" : "Working",
+      "weight" : 46926,
+      "type" : "client",
+      "name" : "mulineiro",
+      "coordinates" : "-7.223648,42.681479"
+    },
+    {
+      "id" : 47079,
+      "STATUS" : "Testing",
+      "weight" : 47079,
+      "type" : "ap",
+      "name" : "MELuruguay2",
+      "coordinates" : "-8.016238,42.917540"
+    },
+    {
+      "id" : 47460,
+      "STATUS" : "Planned",
+      "weight" : 47460,
+      "type" : "ap",
+      "name" : "palmeiro1",
+      "coordinates" : "-7.508855,43.677192"
+    },
+    {
+      "id" : 47725,
+      "STATUS" : "Building",
+      "weight" : 47725,
+      "type" : "ap",
+      "name" : "ouce8",
+      "coordinates" : "-7.863234,42.342745"
+    },
+    {
+      "id" : 47755,
+      "STATUS" : "Working",
+      "weight" : 47755,
+      "type" : "client",
+      "name" : "MDLDCasares63",
+      "coordinates" : "-7.511905,42.525298"
+    },
+    {
+      "id" : 48729,
+      "STATUS" : "Planned",
+      "weight" : 48729,
+      "type" : "ap",
+      "name" : "Dodro",
+      "coordinates" : "-8.241243,42.939218"
+    },
+    {
+      "id" : 49060,
+      "STATUS" : "Working",
+      "weight" : 49060,
+      "type" : "client",
+      "name" : "COUrosalia",
+      "coordinates" : "-7.217170,42.665957"
+    },
+    {
+      "id" : 49063,
+      "STATUS" : "Working",
+      "weight" : 49063,
+      "type" : "client",
+      "name" : "COUmariano",
+      "coordinates" : "-7.156048,42.653294"
+    },
+    {
+      "id" : 53391,
+      "STATUS" : "Working",
+      "weight" : 53391,
+      "type" : "Supernode",
+      "name" : "MDLBaamonde73",
+      "coordinates" : "-7.509995,42.520928"
+    },
+    {
+      "id" : 53392,
+      "STATUS" : "Working",
+      "weight" : 53392,
+      "type" : "Supernode",
+      "name" : "MDLChantada42",
+      "coordinates" : "-7.518994,42.523034"
+    },
+    {
+      "id" : 53393,
+      "STATUS" : "Working",
+      "weight" : 53393,
+      "type" : "client",
+      "name" : "MDLCorredoira40",
+      "coordinates" : "-7.518715,42.525965"
+    },
+    {
+      "id" : 53617,
+      "STATUS" : "Planned",
+      "weight" : 53617,
+      "type" : "Supernode",
+      "name" : "ORViso",
+      "coordinates" : "-7.853605,42.370021"
+    },
+    {
+      "id" : 53859,
+      "STATUS" : "Planned",
+      "weight" : 53859,
+      "type" : "ap",
+      "name" : "LG-AFLL-5",
+      "coordinates" : "-7.573485,43.011365"
+    },
+    {
+      "id" : 54383,
+      "STATUS" : "Working",
+      "weight" : 54383,
+      "type" : "client",
+      "name" : "COUlocay",
+      "coordinates" : "-7.216145,42.665586"
+    },
+    {
+      "id" : 54816,
+      "STATUS" : "Working",
+      "weight" : 54816,
+      "type" : "client",
+      "name" : "COUpostizo",
+      "coordinates" : "-7.188395,42.658896"
+    },
+    {
+      "id" : 54820,
+      "STATUS" : "Working",
+      "weight" : 54820,
+      "type" : "client",
+      "name" : "COUbarreirosderiba",
+      "coordinates" : "-7.188427,42.659275"
+    },
+    {
+      "id" : 54997,
+      "STATUS" : "Planned",
+      "weight" : 54997,
+      "type" : "client",
+      "name" : "CARmendel1",
+      "coordinates" : "-8.688602,43.218689"
+    },
+    {
+      "id" : 56536,
+      "STATUS" : "Working",
+      "weight" : 56536,
+      "type" : "client",
+      "name" : "COUrodrigo",
+      "coordinates" : "-7.188283,42.659137"
+    },
+    {
+      "id" : 56537,
+      "STATUS" : "Working",
+      "weight" : 56537,
+      "type" : "client",
+      "name" : "COUana",
+      "coordinates" : "-7.186668,42.658691"
+    },
+    {
+      "id" : 56538,
+      "STATUS" : "Working",
+      "weight" : 56538,
+      "type" : "client",
+      "name" : "OINfoilebar",
+      "coordinates" : "-7.297904,42.683350"
+    },
+    {
+      "id" : 56539,
+      "STATUS" : "Working",
+      "weight" : 56539,
+      "type" : "client",
+      "name" : "OINleizan",
+      "coordinates" : "-7.290614,42.684746"
+    },
+    {
+      "id" : 56541,
+      "STATUS" : "Working",
+      "weight" : 56541,
+      "type" : "client",
+      "name" : "SAMchiquito",
+      "coordinates" : "-7.241589,42.688303"
+    },
+    {
+      "id" : 57855,
+      "STATUS" : "Working",
+      "weight" : 57855,
+      "type" : "client",
+      "name" : "COUfontal",
+      "coordinates" : "-7.168504,42.696635"
+    },
+    {
+      "id" : 57962,
+      "STATUS" : "Working",
+      "weight" : 57962,
+      "type" : "client",
+      "name" : "COU_meiraos_lopez",
+      "coordinates" : "-7.155576,42.652987"
+    },
+    {
+      "id" : 58000,
+      "STATUS" : "Planned",
+      "weight" : 58000,
+      "type" : "Supernode",
+      "name" : "OBCVegamolinos",
+      "coordinates" : "-6.996027,42.425330"
+    },
+    {
+      "id" : 58001,
+      "STATUS" : "Working",
+      "weight" : 58001,
+      "type" : "Supernode",
+      "name" : "LRuaEM",
+      "coordinates" : "-7.118725,42.393293"
+    },
+    {
+      "id" : 58002,
+      "STATUS" : "Planned",
+      "weight" : 58002,
+      "type" : "Supernode",
+      "name" : "OBCPazo",
+      "coordinates" : "-6.992988,42.428236"
+    },
+    {
+      "id" : 58003,
+      "STATUS" : "Planned",
+      "weight" : 58003,
+      "type" : "client",
+      "name" : "RUAMones",
+      "coordinates" : "-7.108431,42.377172"
+    },
+    {
+      "id" : 59989,
+      "STATUS" : "Working",
+      "weight" : 59989,
+      "type" : "client",
+      "name" : "COUmarcos",
+      "coordinates" : "-7.187848,42.658815"
+    },
+    {
+      "id" : 60322,
+      "STATUS" : "Working",
+      "weight" : 60322,
+      "type" : "client",
+      "name" : "LUSignacio",
+      "coordinates" : "-7.336823,42.784927"
+    },
+    {
+      "id" : 60830,
+      "STATUS" : "Working",
+      "weight" : 60830,
+      "type" : "Supernode",
+      "name" : "MDLXixo",
+      "coordinates" : "-7.524706,42.545906"
+    },
+    {
+      "id" : 60831,
+      "STATUS" : "Building",
+      "weight" : 60831,
+      "type" : "client",
+      "name" : "MDLGulladeNodo",
+      "coordinates" : "-7.502310,42.484662"
+    },
+    {
+      "id" : 61837,
+      "STATUS" : "Building",
+      "weight" : 61837,
+      "type" : "Supernode",
+      "name" : "MDLGullade",
+      "coordinates" : "-7.503139,42.484429"
+    },
+    {
+      "id" : 62900,
+      "STATUS" : "Planned",
+      "weight" : 62900,
+      "type" : "client",
+      "name" : "Mide",
+      "coordinates" : "-8.811201,42.176476"
+    }
+  ],
+  "links" : [
+    {
+      "id" : 19805,
+      "KMS" : 2.918,
+      "STATUS" : "Planned",
+      "target" : 24739,
+      "source" : 24740,
+      "type" : "wds",
+      "NODE1_NAME" : "MeanhoSanBieito",
+      "NODE2_NAME" : "MeanhoCentroSocial",
+      "coordinates" : "-8.785817,42.429570 -8.809479,42.449143"
+    },
+    {
+      "id" : 19806,
+      "KMS" : 1.038,
+      "STATUS" : "Planned",
+      "target" : 24216,
+      "source" : 24739,
+      "type" : "ap/client",
+      "NODE1_NAME" : "MeanhoCentroSocial",
+      "NODE2_NAME" : "basstboneone",
+      "coordinates" : "-8.809479,42.449143 -8.806572,42.458239"
+    },
+    {
+      "id" : 30554,
+      "KMS" : 4.609,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 35680,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Frrr",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.224219,42.681866 -7.276554,42.697064"
+    },
+    {
+      "id" : 30555,
+      "KMS" : 6.905,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 35695,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Portela",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.193449,42.686802 -7.276554,42.697064"
+    },
+    {
+      "id" : 30557,
+      "KMS" : 4.193,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 35682,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Martn",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.233939,42.676179 -7.276554,42.697064"
+    },
+    {
+      "id" : 30976,
+      "KMS" : 0.283,
+      "STATUS" : "Planned",
+      "target" : 32668,
+      "source" : 28097,
+      "type" : "ap/client",
+      "NODE1_NAME" : "VigoAlga-lab",
+      "NODE2_NAME" : "VIGOcvcValadares",
+      "coordinates" : "-8.724400,42.176361 -8.721857,42.174649"
+    },
+    {
+      "id" : 32316,
+      "KMS" : 14.271,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 36667,
+      "type" : "wds",
+      "NODE1_NAME" : "peltre",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.413180,42.776822 -7.276554,42.697064"
+    },
+    {
+      "id" : 32586,
+      "KMS" : 4.66,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 37591,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Lopez",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.223189,42.682576 -7.276554,42.697064"
+    },
+    {
+      "id" : 33226,
+      "KMS" : 8.995,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 23816,
+      "type" : "wds",
+      "NODE1_NAME" : "airapadron",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.276554,42.697064 -7.166777,42.696720"
+    },
+    {
+      "id" : 33228,
+      "KMS" : 0.138,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 35805,
+      "type" : "ap/client",
+      "NODE1_NAME" : "xndr",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.168204,42.696056 -7.166777,42.696720"
+    },
+    {
+      "id" : 33840,
+      "KMS" : 0.948,
+      "STATUS" : "Testing",
+      "target" : 38770,
+      "source" : 38769,
+      "type" : "ap/client",
+      "NODE1_NAME" : "ABEMontoutoCS",
+      "NODE2_NAME" : "ABEMontoutoMRR",
+      "coordinates" : "-8.328342,43.203501 -8.318659,43.208263"
+    },
+    {
+      "id" : 34306,
+      "KMS" : 0.12,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 35788,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Mnldr",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.166321,42.695690 -7.166777,42.696720"
+    },
+    {
+      "id" : 34321,
+      "KMS" : 0.131,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 35790,
+      "type" : "ap/client",
+      "NODE1_NAME" : "crebolal",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.168295,42.696352 -7.166777,42.696720"
+    },
+    {
+      "id" : 34414,
+      "KMS" : 0.162,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 35806,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Lago",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.168719,42.696434 -7.166777,42.696720"
+    },
+    {
+      "id" : 34429,
+      "KMS" : 4.825,
+      "STATUS" : "Working",
+      "target" : 39203,
+      "source" : 23816,
+      "type" : "ap/client",
+      "NODE1_NAME" : "airapadron",
+      "NODE2_NAME" : "Mrtn",
+      "coordinates" : "-7.276554,42.697064 -7.221342,42.681991"
+    },
+    {
+      "id" : 34430,
+      "KMS" : 4.659,
+      "STATUS" : "Working",
+      "target" : 39200,
+      "source" : 23816,
+      "type" : "ap/client",
+      "NODE1_NAME" : "airapadron",
+      "NODE2_NAME" : "Campo",
+      "coordinates" : "-7.276554,42.697064 -7.223563,42.681868"
+    },
+    {
+      "id" : 34441,
+      "KMS" : 0.052,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 35807,
+      "type" : "ap/client",
+      "NODE1_NAME" : "escola",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.166637,42.696261 -7.166777,42.696720"
+    },
+    {
+      "id" : 34442,
+      "KMS" : 0.108,
+      "STATUS" : "Working",
+      "target" : 35789,
+      "source" : 35785,
+      "type" : "ap/client",
+      "NODE1_NAME" : "TXR1",
+      "NODE2_NAME" : "rmst",
+      "coordinates" : "-7.166777,42.696720 -7.167630,42.695982"
+    },
+    {
+      "id" : 34443,
+      "KMS" : 0.149,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 35787,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Menor",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.165655,42.695666 -7.166777,42.696720"
+    },
+    {
+      "id" : 34444,
+      "KMS" : 0.097,
+      "STATUS" : "Working",
+      "target" : 35849,
+      "source" : 35785,
+      "type" : "ap/client",
+      "NODE1_NAME" : "TXR1",
+      "NODE2_NAME" : "stdnt",
+      "coordinates" : "-7.166777,42.696720 -7.166739,42.695848"
+    },
+    {
+      "id" : 35874,
+      "KMS" : 1.403,
+      "STATUS" : "Testing",
+      "target" : 38770,
+      "source" : 38773,
+      "type" : "ap/client",
+      "NODE1_NAME" : "ABEAPicota14a",
+      "NODE2_NAME" : "ABEMontoutoMRR",
+      "coordinates" : "-8.304733,43.215721 -8.318659,43.208263"
+    },
+    {
+      "id" : 37609,
+      "KMS" : 1.56,
+      "STATUS" : "Working",
+      "target" : 41743,
+      "source" : 41754,
+      "type" : "wds",
+      "NODE1_NAME" : "OLRCubelos21B",
+      "NODE2_NAME" : "CRNrioquintas27",
+      "coordinates" : "-8.371711,43.336499 -8.387445,43.328421"
+    },
+    {
+      "id" : 37756,
+      "KMS" : 2.57,
+      "STATUS" : "Testing",
+      "target" : 31857,
+      "source" : 35449,
+      "type" : "ap/client",
+      "NODE1_NAME" : "CRNSnJs15",
+      "NODE2_NAME" : "CRNRondaOuteiro198",
+      "coordinates" : "-8.396119,43.374298 -8.417099,43.356957"
+    },
+    {
+      "id" : 37803,
+      "KMS" : 0.058,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 41934,
+      "type" : "ap/client",
+      "NODE1_NAME" : "gnzl",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.167120,42.696268 -7.166777,42.696720"
+    },
+    {
+      "id" : 38045,
+      "KMS" : 5.801,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 41296,
+      "type" : "wds",
+      "NODE1_NAME" : "SARconcello",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.416144,42.776941 -7.348845,42.793350"
+    },
+    {
+      "id" : 38306,
+      "KMS" : 1.286,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 41300,
+      "type" : "wds",
+      "NODE1_NAME" : "Lusescola",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.344468,42.782232 -7.348845,42.793350"
+    },
+    {
+      "id" : 38375,
+      "KMS" : 1.291,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42067,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSciruxana",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.347311,42.781785 -7.348845,42.793350"
+    },
+    {
+      "id" : 38377,
+      "KMS" : 1.217,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42068,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSsomoza",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.347472,42.782444 -7.348845,42.793350"
+    },
+    {
+      "id" : 38378,
+      "KMS" : 1.189,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42070,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSnesario",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.347622,42.782684 -7.348845,42.793350"
+    },
+    {
+      "id" : 38379,
+      "KMS" : 1.132,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42071,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSquintana",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.347611,42.783202 -7.348845,42.793350"
+    },
+    {
+      "id" : 38381,
+      "KMS" : 1.079,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42072,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSzarralleiro",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.349006,42.783635 -7.348845,42.793350"
+    },
+    {
+      "id" : 38383,
+      "KMS" : 1.014,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42075,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUScarril",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.349558,42.784234 -7.348845,42.793350"
+    },
+    {
+      "id" : 38385,
+      "KMS" : 0.402,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42077,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSescaleira",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.346646,42.790116 -7.348845,42.793350"
+    },
+    {
+      "id" : 38386,
+      "KMS" : 0.276,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42078,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSsouto",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.345476,42.793455 -7.348845,42.793350"
+    },
+    {
+      "id" : 38387,
+      "KMS" : 0.22,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42079,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUScorreo",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.347938,42.791483 -7.348845,42.793350"
+    },
+    {
+      "id" : 38389,
+      "KMS" : 0.666,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 42081,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSbarreda",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.337670,42.785525 -7.344468,42.782232"
+    },
+    {
+      "id" : 38390,
+      "KMS" : 0.55,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 42082,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSvertalo",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.339650,42.785685 -7.344468,42.782232"
+    },
+    {
+      "id" : 38393,
+      "KMS" : 0.179,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 42086,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSpereira",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.342708,42.783187 -7.344468,42.782232"
+    },
+    {
+      "id" : 38394,
+      "KMS" : 0.122,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 42087,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUScorgafonda",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.343604,42.783129 -7.344468,42.782232"
+    },
+    {
+      "id" : 38395,
+      "KMS" : 0.078,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 42088,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSpoga",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.344116,42.782883 -7.344468,42.782232"
+    },
+    {
+      "id" : 39262,
+      "KMS" : 27.345,
+      "STATUS" : "Working",
+      "target" : 43052,
+      "source" : 38813,
+      "type" : "wds",
+      "NODE1_NAME" : "Asar",
+      "NODE2_NAME" : "BEcon",
+      "coordinates" : "-6.879096,42.985458 -7.161477,42.853113"
+    },
+    {
+      "id" : 41285,
+      "KMS" : 1.215,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42089,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSpoga_",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.345074,42.782767 -7.348845,42.793350"
+    },
+    {
+      "id" : 41817,
+      "KMS" : 1.312,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 45131,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSveiga_",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.346554,42.781657 -7.348845,42.793350"
+    },
+    {
+      "id" : 41818,
+      "KMS" : 0.068,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 45132,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUScorreo_",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.348051,42.793543 -7.348845,42.793350"
+    },
+    {
+      "id" : 42132,
+      "KMS" : 0.152,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 45000,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUScruz",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.345707,42.783248 -7.344468,42.782232"
+    },
+    {
+      "id" : 42208,
+      "KMS" : 1.24,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 45444,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSpacio",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.340525,42.784016 -7.348845,42.793350"
+    },
+    {
+      "id" : 42209,
+      "KMS" : 0.295,
+      "STATUS" : "Working",
+      "target" : 42082,
+      "source" : 42084,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSsobrado",
+      "NODE2_NAME" : "LUSvertalo",
+      "coordinates" : "-7.337853,42.783381 -7.339650,42.785685"
+    },
+    {
+      "id" : 42210,
+      "KMS" : 0.295,
+      "STATUS" : "Working",
+      "target" : 42082,
+      "source" : 42085,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSsobrado_",
+      "NODE2_NAME" : "LUSvertalo",
+      "coordinates" : "-7.338175,42.783259 -7.339650,42.785685"
+    },
+    {
+      "id" : 44126,
+      "KMS" : 4.669,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 46926,
+      "type" : "ap/client",
+      "NODE1_NAME" : "mulineiro",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.223648,42.681479 -7.276554,42.697064"
+    },
+    {
+      "id" : 48810,
+      "KMS" : 0.183,
+      "STATUS" : "Planned",
+      "target" : 31699,
+      "source" : 29858,
+      "type" : "wds",
+      "NODE1_NAME" : "PADOurovello4",
+      "NODE2_NAME" : "PADOurovello10",
+      "coordinates" : "-8.141643,43.305769 -8.139815,43.306732"
+    },
+    {
+      "id" : 48811,
+      "KMS" : 0.085,
+      "STATUS" : "Planned",
+      "target" : 31720,
+      "source" : 31699,
+      "type" : "wds",
+      "NODE1_NAME" : "PADOurovello10",
+      "NODE2_NAME" : "PADOurovello8",
+      "coordinates" : "-8.139815,43.306732 -8.140279,43.307419"
+    },
+    {
+      "id" : 48830,
+      "KMS" : 0.683,
+      "STATUS" : "Planned",
+      "target" : 31918,
+      "source" : 31720,
+      "type" : "wds",
+      "NODE1_NAME" : "PADOurovello8",
+      "NODE2_NAME" : "IRXVilarcia1",
+      "coordinates" : "-8.140279,43.307419 -8.134099,43.311596"
+    },
+    {
+      "id" : 48837,
+      "KMS" : 2.168,
+      "STATUS" : "Planned",
+      "target" : 29858,
+      "source" : 29859,
+      "type" : "wds",
+      "NODE1_NAME" : "MINPousadoira4",
+      "NODE2_NAME" : "PADOurovello4",
+      "coordinates" : "-8.155682,43.322377 -8.141643,43.305769"
+    },
+    {
+      "id" : 52316,
+      "KMS" : 2.237,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 45039,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSjavier",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.357364,42.774220 -7.348845,42.793350"
+    },
+    {
+      "id" : 52318,
+      "KMS" : 0.454,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42080,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSduro",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.349746,42.789318 -7.348845,42.793350"
+    },
+    {
+      "id" : 52319,
+      "KMS" : 1.634,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42090,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSveiga",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.351248,42.778750 -7.348845,42.793350"
+    },
+    {
+      "id" : 52320,
+      "KMS" : 1.855,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42091,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSacal",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.351120,42.776735 -7.348845,42.793350"
+    },
+    {
+      "id" : 52323,
+      "KMS" : 1.048,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42076,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUScastor",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.349993,42.783950 -7.348845,42.793350"
+    },
+    {
+      "id" : 52324,
+      "KMS" : 1.071,
+      "STATUS" : "Working",
+      "target" : 41299,
+      "source" : 42074,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSrebordelos",
+      "NODE2_NAME" : "LUSaveiga",
+      "coordinates" : "-7.349752,42.783735 -7.348845,42.793350"
+    },
+    {
+      "id" : 52899,
+      "KMS" : 3.578,
+      "STATUS" : "Working",
+      "target" : 53388,
+      "source" : 53390,
+      "type" : "wds",
+      "NODE1_NAME" : "MDLAltoChavaga",
+      "NODE2_NAME" : "BRLLNEscuela",
+      "coordinates" : "-7.435429,42.539449 -7.394150,42.549728"
+    },
+    {
+      "id" : 52904,
+      "KMS" : 6.463,
+      "STATUS" : "Working",
+      "target" : 53390,
+      "source" : 53391,
+      "type" : "wds",
+      "NODE1_NAME" : "MDLBaamonde73",
+      "NODE2_NAME" : "MDLAltoChavaga",
+      "coordinates" : "-7.509995,42.520928 -7.435429,42.539449"
+    },
+    {
+      "id" : 52912,
+      "KMS" : 0.776,
+      "STATUS" : "Working",
+      "target" : 53392,
+      "source" : 53391,
+      "type" : "wds",
+      "NODE1_NAME" : "MDLBaamonde73",
+      "NODE2_NAME" : "MDLChantada42",
+      "coordinates" : "-7.509995,42.520928 -7.518994,42.523034"
+    },
+    {
+      "id" : 52920,
+      "KMS" : 0.634,
+      "STATUS" : "Working",
+      "target" : 53392,
+      "source" : 47755,
+      "type" : "ap/client",
+      "NODE1_NAME" : "MDLDCasares63",
+      "NODE2_NAME" : "MDLChantada42",
+      "coordinates" : "-7.511905,42.525298 -7.518994,42.523034"
+    },
+    {
+      "id" : 52921,
+      "KMS" : 0.326,
+      "STATUS" : "Working",
+      "target" : 53392,
+      "source" : 53393,
+      "type" : "ap/client",
+      "NODE1_NAME" : "MDLCorredoira40",
+      "NODE2_NAME" : "MDLChantada42",
+      "coordinates" : "-7.518715,42.525965 -7.518994,42.523034"
+    },
+    {
+      "id" : 53224,
+      "KMS" : 5.806,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 24444,
+      "type" : "wds",
+      "NODE1_NAME" : "COUrep_ped",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.219992,42.665594 -7.276554,42.697064"
+    },
+    {
+      "id" : 53634,
+      "KMS" : 3.163,
+      "STATUS" : "Working",
+      "target" : 35686,
+      "source" : 24444,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUrep_ped",
+      "NODE2_NAME" : "Aldea",
+      "coordinates" : "-7.219992,42.665594 -7.242774,42.688579"
+    },
+    {
+      "id" : 54198,
+      "KMS" : 2.443,
+      "STATUS" : "Planned",
+      "target" : 53617,
+      "source" : 54300,
+      "type" : "wds",
+      "NODE1_NAME" : "ORLagunas1",
+      "NODE2_NAME" : "ORViso",
+      "coordinates" : "-7.855962,42.348096 -7.853605,42.370021"
+    },
+    {
+      "id" : 54199,
+      "KMS" : 2.443,
+      "STATUS" : "Planned",
+      "target" : 54300,
+      "source" : 53617,
+      "type" : "wds",
+      "NODE1_NAME" : "ORViso",
+      "NODE2_NAME" : "ORLagunas1",
+      "coordinates" : "-7.853605,42.370021 -7.855962,42.348096"
+    },
+    {
+      "id" : 54333,
+      "KMS" : 0.235,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 49060,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUrosalia",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.217170,42.665957 -7.219992,42.665594"
+    },
+    {
+      "id" : 54335,
+      "KMS" : 0.315,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 54383,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUlocay",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.216145,42.665586 -7.219992,42.665594"
+    },
+    {
+      "id" : 54340,
+      "KMS" : 4.678,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 35688,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Cancela",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.261512,42.694486 -7.219992,42.665594"
+    },
+    {
+      "id" : 54344,
+      "KMS" : 6.74,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 35681,
+      "type" : "ap/client",
+      "NODE1_NAME" : "OINveiga",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.295544,42.689533 -7.219992,42.665594"
+    },
+    {
+      "id" : 54345,
+      "KMS" : 3.818,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 35683,
+      "type" : "ap/client",
+      "NODE1_NAME" : "souto",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.251765,42.690728 -7.219992,42.665594"
+    },
+    {
+      "id" : 55022,
+      "KMS" : 2.695,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 54816,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUpostizo",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.188395,42.658896 -7.219992,42.665594"
+    },
+    {
+      "id" : 55027,
+      "KMS" : 2.681,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 54820,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUbarreirosderiba",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.188427,42.659275 -7.219992,42.665594"
+    },
+    {
+      "id" : 57300,
+      "KMS" : 2.838,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 56537,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUana",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.186668,42.658691 -7.219992,42.665594"
+    },
+    {
+      "id" : 57301,
+      "KMS" : 6.684,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 56538,
+      "type" : "ap/client",
+      "NODE1_NAME" : "OINfoilebar",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.297904,42.683350 -7.219992,42.665594"
+    },
+    {
+      "id" : 57302,
+      "KMS" : 6.167,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 56539,
+      "type" : "ap/client",
+      "NODE1_NAME" : "OINleizan",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.290614,42.684746 -7.219992,42.665594"
+    },
+    {
+      "id" : 57303,
+      "KMS" : 3.082,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 56541,
+      "type" : "ap/client",
+      "NODE1_NAME" : "SAMchiquito",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.241589,42.688303 -7.219992,42.665594"
+    },
+    {
+      "id" : 57393,
+      "KMS" : 2.697,
+      "STATUS" : "Planned",
+      "target" : 24444,
+      "source" : 56536,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUrodrigo",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.188283,42.659137 -7.219992,42.665594"
+    },
+    {
+      "id" : 59147,
+      "KMS" : 5.418,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 49063,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUmariano",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.156048,42.653294 -7.219992,42.665594"
+    },
+    {
+      "id" : 59148,
+      "KMS" : 0.142,
+      "STATUS" : "Working",
+      "target" : 35785,
+      "source" : 57855,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUfontal",
+      "NODE2_NAME" : "TXR1",
+      "coordinates" : "-7.168504,42.696635 -7.166777,42.696720"
+    },
+    {
+      "id" : 59307,
+      "KMS" : 5.464,
+      "STATUS" : "Working",
+      "target" : 57962,
+      "source" : 24444,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUrep_ped",
+      "NODE2_NAME" : "COU_meiraos_lopez",
+      "coordinates" : "-7.219992,42.665594 -7.155576,42.652987"
+    },
+    {
+      "id" : 59364,
+      "KMS" : 0.408,
+      "STATUS" : "Planned",
+      "target" : 58000,
+      "source" : 58002,
+      "type" : "ap/client",
+      "NODE1_NAME" : "OBCPazo",
+      "NODE2_NAME" : "OBCVegamolinos",
+      "coordinates" : "-6.992988,42.428236 -6.996027,42.425330"
+    },
+    {
+      "id" : 59365,
+      "KMS" : 11.054,
+      "STATUS" : "Planned",
+      "target" : 58001,
+      "source" : 58002,
+      "type" : "ap/client",
+      "NODE1_NAME" : "OBCPazo",
+      "NODE2_NAME" : "LRuaEM",
+      "coordinates" : "-6.992988,42.428236 -7.118725,42.393293"
+    },
+    {
+      "id" : 59366,
+      "KMS" : 1.981,
+      "STATUS" : "Planned",
+      "target" : 58001,
+      "source" : 58003,
+      "type" : "ap/client",
+      "NODE1_NAME" : "RUAMones",
+      "NODE2_NAME" : "LRuaEM",
+      "coordinates" : "-7.108431,42.377172 -7.118725,42.393293"
+    },
+    {
+      "id" : 62231,
+      "KMS" : 2.741,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 59989,
+      "type" : "ap/client",
+      "NODE1_NAME" : "COUmarcos",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.187848,42.658815 -7.219992,42.665594"
+    },
+    {
+      "id" : 62653,
+      "KMS" : 0.694,
+      "STATUS" : "Working",
+      "target" : 41300,
+      "source" : 60322,
+      "type" : "ap/client",
+      "NODE1_NAME" : "LUSignacio",
+      "NODE2_NAME" : "Lusescola",
+      "coordinates" : "-7.336823,42.784927 -7.344468,42.782232"
+    },
+    {
+      "id" : 63349,
+      "KMS" : 4.667,
+      "STATUS" : "Working",
+      "target" : 23816,
+      "source" : 35685,
+      "type" : "ap/client",
+      "NODE1_NAME" : "Casanova",
+      "NODE2_NAME" : "airapadron",
+      "coordinates" : "-7.222996,42.682794 -7.276554,42.697064"
+    },
+    {
+      "id" : 64496,
+      "KMS" : 1.222,
+      "STATUS" : "Working",
+      "target" : 24444,
+      "source" : 61672,
+      "type" : "ap/client",
+      "NODE1_NAME" : "bustofrio",
+      "NODE2_NAME" : "COUrep_ped",
+      "coordinates" : "-7.227674,42.675025 -7.219992,42.665594"
+    },
+    {
+      "id" : 65193,
+      "KMS" : 2.584,
+      "STATUS" : "Working",
+      "target" : 60830,
+      "source" : 53392,
+      "type" : "wds",
+      "NODE1_NAME" : "MDLChantada42",
+      "NODE2_NAME" : "MDLXixo",
+      "coordinates" : "-7.518994,42.523034 -7.524706,42.545906"
+    },
+    {
+      "id" : 65195,
+      "KMS" : 4.482,
+      "STATUS" : "Building",
+      "target" : 61837,
+      "source" : 53392,
+      "type" : "wds",
+      "NODE1_NAME" : "MDLChantada42",
+      "NODE2_NAME" : "MDLGullade",
+      "coordinates" : "-7.518994,42.523034 -7.503139,42.484429"
+    },
+    {
+      "id" : 65202,
+      "KMS" : 0.073,
+      "STATUS" : "Building",
+      "target" : 61837,
+      "source" : 60831,
+      "type" : "ap/client",
+      "NODE1_NAME" : "MDLGulladeNodo",
+      "NODE2_NAME" : "MDLGullade",
+      "coordinates" : "-7.502310,42.484662 -7.503139,42.484429"
+    }
+  ]
+}

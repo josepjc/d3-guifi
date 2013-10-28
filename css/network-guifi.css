@@ -1,0 +1,108 @@
+.tooltip{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    padding: 6px;
+    font-weight: 400;
+    font: 14px arial;
+    pointer-events: none;
+    background: green
+    z-order:1000;
+}
+.tooltip.big{
+    font-size: 18px bold;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+}
+.labeln{
+   
+    font: 20px arial;
+    pointer-events: all;
+  
+}
+#selectionbox1{
+    padding: 2px;
+    
+    font: 14px arial;
+    pointer-events: all;
+   
+}
+#selectionbox2{
+    padding: 2px;
+    
+    font: 14px arial;
+    pointer-events: all;
+   
+}
+#selectionbox3{
+    padding: 2px;
+    
+    font: 14px arial;
+    pointer-events: all;
+   
+}
+#helptext{
+    padding: 2px;
+    
+    font: 14px arial;
+    pointer-events: all;
+   
+}
+.custom-combobox {
+position: relative;
+display: inline-block;
+}
+.custom-combobox-toggle {
+position: absolute;
+top: 0;
+bottom: 0;
+margin-left: -1px;
+padding: 0;
+/* support: IE7 */
+*height: 1.7em;
+*top: 0.1em;
+}
+.custom-combobox-input {
+margin: 0;
+padding: 0.3em;
+
+.node{
+    pointer-events: all;
+}
+.circulo{
+    pointer-events: all;
+}
+.circulo.ap{
+    fill: #C60000;
+    stroke: #666;
+    stroke-width: 1px;
+}
+.circulo.client{
+    fill: #3383bb;
+    stroke: #666;
+    stroke-width: 1px;
+}
+.circulo.supernode{
+    fill: orange;
+    stroke: #666;
+    stroke-width: 1px;
+}
+.circulo2{
+    pointer-events: all;
+}
+.circulo2.ap{
+    fill: #FF4F00;
+    stroke: #666;
+    stroke-width: 1px;
+}
+.circulo2.client{
+    fill: #408DD2;
+    stroke: #666;
+    stroke-width: 1px;
+}
+.circulo2.supernode{
+    fill: #FFC200;
+    stroke: #666;
+    stroke-width: 1px;
+}
