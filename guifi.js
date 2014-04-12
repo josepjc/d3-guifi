@@ -1,13 +1,7 @@
-
-//$( "#selectionbox1" ).buttonset();
-//$( "#selectionbox2" ).buttonset();
-//$( "#selectionbox3" ).buttonset();
-
-            var dataset = "barcelones"
-            var client = null //var client = 'client'
-            var ap = null //var ap = 'ap'
-            var Supernode = null //var Supernode = 'Supernode'
-
+var dataset = "barcelones"
+var client = null //var client = 'client'
+var ap = null //var ap = 'ap'
+var Supernode = null //var Supernode = 'Supernode'
 
 var vis = d3.select("body")
     .append("svg")
@@ -19,7 +13,6 @@ var container = vis.append("g")
 redraw = function(){
     container.attr("transform","translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
 }
-
 
 function init () {
 
