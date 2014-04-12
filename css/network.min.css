@@ -1,0 +1,11 @@
+body{background-color:#D4CEB6;}
+.tooltip{position:absolute;box-align:strech;box-shadow:4px 6px 6px #888;font-weight:400;font:14px arial;border:0;border-radius:6px;pointer-events:none;z-order:1000;padding:6px;}
+.tooltip.big{font-size:18px bold;color:#000;text-align:center;vertical-align:middle;}
+.labeln{font:20px arial;pointer-events:all;}
+.node{pointer-events:none;}
+.circulo{pointer-events:all;}
+.circulo.ap{fill:#C60000;stroke:#666;stroke-width:1px;}
+.circulo.client{fill:#2779B3;stroke:#666;stroke-width:1px;}
+.circulo.supernode{fill:#FFA203;stroke:#666;stroke-width:1px;}
+.circulo.rest{fill:green;}
+#selectionbox1,#selectionbox2,#selectionbox3{font:14px arial;pointer-events:all;padding:2px;}
